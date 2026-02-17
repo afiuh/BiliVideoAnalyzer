@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# 数据文件夹
+data/
+*.log
+step2_debug.log
+
+# 打包输出
+dist/
+build/
+*.spec
+
+# 配置文件（保留示例，移除真实密钥）
+config.py
+# 但建议保留 config_example.py 供用户参考
