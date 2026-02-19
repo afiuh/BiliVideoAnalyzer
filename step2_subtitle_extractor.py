@@ -101,26 +101,23 @@ def main():
     os.makedirs(SUBTITLE_DIR, exist_ok=True)
     os.makedirs(AUDIO_DIR, exist_ok=True)
 
-    processed = 0   # 仅用于统计成功数，不用于限制循环
-    for video in videos:
-        bvid = video.get('bvid')
-        if not bvid:
-            continue
+    # 限制处理数量
+    videos_to_process = videos[:MAX_VIDEOS]
+    print(f"共 {len(videos_to_process)} 个视频需要处理")
 
-        print(f"\n处理视频 {bvid}...")
-        audio_file = download_audio(bvid, AUDIO_DIR)
-        if not audio_file:
-            continue
+    # 准备任务列表：每个任务是一个 (bvid, title) 元组
+    tasks = [(video['bvid'], video.get('title', '')) for video in videos_to_process]
 
-        try:
-            transcribe_audio(audio_file, bvid, SUBTITLE_DIR)
-            processed += 1
-        except Exception as e:
-            print(f"  语音识别出错: {e}")
+    successful = 0
+    # 使用进程池，每个进程只处理一个任务后重启（maxtasksperchild=1），隔离崩溃
+    with multiprocessing.Pool(processes=1, maxtasksperchild=1) as pool:
+        # starmap 会按顺序提交任务，并等待所有完成，返回结果列表
+        results = pool.starmap(process_single_video, tasks)
+        successful = sum(1 for r in results if r)
 
-        print(f"\n处理完成，共成功处理 {processed} 个视频，字幕文件保存在 {SUBTITLE_DIR}，音频文件保存在 {AUDIO_DIR}")
-        sys.stdout.flush()
-        time.sleep(3)  # 等待底层资源释放
+    print(f"\n处理完成，共成功处理 {successful} 个视频，字幕文件保存在 {SUBTITLE_DIR}，音频文件保存在 {AUDIO_DIR}")
+    sys.stdout.flush()
+    time.sleep(3)  # 等待底层资源释放
 
 if __name__ == "__main__":
     # 必须使用 spawn 方式启动进程，避免 Windows 上的问题

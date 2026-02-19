@@ -2961,3 +2961,1986 @@
 2026-02-18 03:52:49,457 - DEBUG - Processing segment at 41:02.000
 2026-02-18 03:52:49,719 - DEBUG - Processing segment at 41:30.000
 2026-02-18 03:52:49,960 - DEBUG - Processing segment at 41:58.000
+2026-02-19 10:23:54,722 - INFO - 主进程开始运行
+2026-02-19 10:26:08,914 - INFO - Processing audio with duration 50:13.045
+2026-02-19 10:26:20,609 - INFO - Detected language 'en' with probability 0.50
+2026-02-19 10:26:20,875 - DEBUG - Processing segment at 00:00.000
+2026-02-19 10:26:21,282 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.195312 < -1.000000)
+2026-02-19 10:26:21,283 - DEBUG - No speech threshold is met (0.639648 > 0.600000)
+2026-02-19 10:26:21,283 - DEBUG - Processing segment at 00:30.000
+2026-02-19 10:26:21,595 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 10:26:21,596 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:26:21,596 - DEBUG - Processing segment at 01:00.000
+2026-02-19 10:26:21,894 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.103516 < -1.000000)
+2026-02-19 10:26:21,894 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:21,894 - DEBUG - Processing segment at 01:30.000
+2026-02-19 10:26:22,212 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125000 < -1.000000)
+2026-02-19 10:26:22,213 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:22,213 - DEBUG - Processing segment at 02:00.000
+2026-02-19 10:26:22,516 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.156250 < -1.000000)
+2026-02-19 10:26:22,517 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:22,517 - DEBUG - Processing segment at 02:30.000
+2026-02-19 10:26:23,082 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 10:26:23,082 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:23,082 - DEBUG - Processing segment at 03:00.000
+2026-02-19 10:26:23,392 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 10:26:23,392 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 10:26:23,392 - DEBUG - Processing segment at 03:30.000
+2026-02-19 10:26:23,717 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 10:26:23,717 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:23,717 - DEBUG - Processing segment at 04:00.000
+2026-02-19 10:26:24,059 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.111328 < -1.000000)
+2026-02-19 10:26:24,059 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:24,059 - DEBUG - Processing segment at 04:30.000
+2026-02-19 10:26:24,569 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.128906 < -1.000000)
+2026-02-19 10:26:24,570 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 10:26:24,570 - DEBUG - Processing segment at 05:00.000
+2026-02-19 10:26:25,163 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 10:26:25,164 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:25,164 - DEBUG - Processing segment at 05:30.000
+2026-02-19 10:26:25,459 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.148438 < -1.000000)
+2026-02-19 10:26:25,459 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:25,459 - DEBUG - Processing segment at 06:00.000
+2026-02-19 10:26:25,911 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.074219 < -1.000000)
+2026-02-19 10:26:25,911 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:25,911 - DEBUG - Processing segment at 06:30.000
+2026-02-19 10:26:26,249 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.159180 < -1.000000)
+2026-02-19 10:26:26,250 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:26,250 - DEBUG - Processing segment at 07:00.000
+2026-02-19 10:26:26,574 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.121094 < -1.000000)
+2026-02-19 10:26:26,575 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:26,575 - DEBUG - Processing segment at 07:30.000
+2026-02-19 10:26:27,157 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:27,158 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:27,158 - DEBUG - Processing segment at 08:00.000
+2026-02-19 10:26:27,438 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.137695 < -1.000000)
+2026-02-19 10:26:27,438 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:27,438 - DEBUG - Processing segment at 08:30.000
+2026-02-19 10:26:27,766 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 10:26:27,766 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:27,767 - DEBUG - Processing segment at 09:00.000
+2026-02-19 10:26:28,379 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 10:26:28,380 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:28,380 - DEBUG - Processing segment at 09:30.000
+2026-02-19 10:26:28,731 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.143555 < -1.000000)
+2026-02-19 10:26:28,731 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:28,731 - DEBUG - Processing segment at 10:00.000
+2026-02-19 10:26:29,066 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 10:26:29,067 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:29,067 - DEBUG - Processing segment at 10:30.000
+2026-02-19 10:26:29,398 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:29,398 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:29,398 - DEBUG - Processing segment at 11:00.000
+2026-02-19 10:26:29,728 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.131836 < -1.000000)
+2026-02-19 10:26:29,728 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:29,729 - DEBUG - Processing segment at 11:30.000
+2026-02-19 10:26:30,200 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:30,201 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:30,201 - DEBUG - Processing segment at 12:00.000
+2026-02-19 10:26:30,557 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 10:26:30,557 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 10:26:30,557 - DEBUG - Processing segment at 12:30.000
+2026-02-19 10:26:31,103 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.075195 < -1.000000)
+2026-02-19 10:26:31,103 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:31,103 - DEBUG - Processing segment at 13:00.000
+2026-02-19 10:26:31,453 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.134766 < -1.000000)
+2026-02-19 10:26:31,453 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:31,453 - DEBUG - Processing segment at 13:30.000
+2026-02-19 10:26:31,782 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 10:26:31,783 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:31,783 - DEBUG - Processing segment at 14:00.000
+2026-02-19 10:26:32,119 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.123047 < -1.000000)
+2026-02-19 10:26:32,120 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:32,120 - DEBUG - Processing segment at 14:30.000
+2026-02-19 10:26:32,455 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.118164 < -1.000000)
+2026-02-19 10:26:32,456 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:32,456 - DEBUG - Processing segment at 15:00.000
+2026-02-19 10:26:32,799 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 10:26:32,799 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:32,799 - DEBUG - Processing segment at 15:30.000
+2026-02-19 10:26:33,370 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 10:26:33,370 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:33,370 - DEBUG - Processing segment at 16:00.000
+2026-02-19 10:26:33,695 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.156250 < -1.000000)
+2026-02-19 10:26:33,695 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 10:26:33,695 - DEBUG - Processing segment at 16:30.000
+2026-02-19 10:26:34,011 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083984 < -1.000000)
+2026-02-19 10:26:34,012 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:34,012 - DEBUG - Processing segment at 17:00.000
+2026-02-19 10:26:34,600 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.141602 < -1.000000)
+2026-02-19 10:26:34,600 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:34,601 - DEBUG - Processing segment at 17:30.000
+2026-02-19 10:26:35,088 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 10:26:35,089 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:35,089 - DEBUG - Processing segment at 18:00.000
+2026-02-19 10:26:35,535 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.110352 < -1.000000)
+2026-02-19 10:26:35,536 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 10:26:35,536 - DEBUG - Processing segment at 18:30.000
+2026-02-19 10:26:35,856 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 10:26:35,857 - DEBUG - No speech threshold is met (0.973145 > 0.600000)
+2026-02-19 10:26:35,857 - DEBUG - Processing segment at 19:00.000
+2026-02-19 10:26:36,152 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 10:26:36,152 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:36,153 - DEBUG - Processing segment at 19:30.000
+2026-02-19 10:26:36,540 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.130859 < -1.000000)
+2026-02-19 10:26:36,540 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:36,541 - DEBUG - Processing segment at 20:00.000
+2026-02-19 10:26:37,030 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 10:26:37,030 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:37,030 - DEBUG - Processing segment at 20:30.000
+2026-02-19 10:26:37,348 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.119141 < -1.000000)
+2026-02-19 10:26:37,348 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:37,348 - DEBUG - Processing segment at 21:00.000
+2026-02-19 10:26:37,679 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:37,679 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:37,680 - DEBUG - Processing segment at 21:30.000
+2026-02-19 10:26:38,045 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.136719 < -1.000000)
+2026-02-19 10:26:38,046 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:26:38,046 - DEBUG - Processing segment at 22:00.000
+2026-02-19 10:26:38,600 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 10:26:38,600 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:38,601 - DEBUG - Processing segment at 22:30.000
+2026-02-19 10:26:38,949 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:38,949 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 10:26:38,950 - DEBUG - Processing segment at 23:00.000
+2026-02-19 10:26:39,274 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 10:26:39,275 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:39,275 - DEBUG - Processing segment at 23:30.000
+2026-02-19 10:26:39,830 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 10:26:39,830 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:39,830 - DEBUG - Processing segment at 24:00.000
+2026-02-19 10:26:40,152 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 10:26:40,152 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:40,153 - DEBUG - Processing segment at 24:30.000
+2026-02-19 10:26:40,492 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.126953 < -1.000000)
+2026-02-19 10:26:40,492 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:40,492 - DEBUG - Processing segment at 25:00.000
+2026-02-19 10:26:40,818 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 10:26:40,818 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:40,819 - DEBUG - Processing segment at 25:30.000
+2026-02-19 10:26:41,390 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.106445 < -1.000000)
+2026-02-19 10:26:41,391 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:41,391 - DEBUG - Processing segment at 26:00.000
+2026-02-19 10:26:41,724 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 10:26:41,724 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:41,724 - DEBUG - Processing segment at 26:30.000
+2026-02-19 10:26:42,208 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.112305 < -1.000000)
+2026-02-19 10:26:42,208 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:42,208 - DEBUG - Processing segment at 27:00.000
+2026-02-19 10:26:42,550 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.160156 < -1.000000)
+2026-02-19 10:26:42,551 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 10:26:42,551 - DEBUG - Processing segment at 27:30.000
+2026-02-19 10:26:43,009 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 10:26:43,009 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:43,010 - DEBUG - Processing segment at 28:00.000
+2026-02-19 10:26:43,332 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 10:26:43,332 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:26:43,332 - DEBUG - Processing segment at 28:30.000
+2026-02-19 10:26:43,775 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.079102 < -1.000000)
+2026-02-19 10:26:43,775 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:43,775 - DEBUG - Processing segment at 29:00.000
+2026-02-19 10:26:44,095 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.164063 < -1.000000)
+2026-02-19 10:26:44,096 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 10:26:44,096 - DEBUG - Processing segment at 29:30.000
+2026-02-19 10:26:44,380 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 10:26:44,380 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:44,380 - DEBUG - Processing segment at 30:00.000
+2026-02-19 10:26:44,698 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 10:26:44,699 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:44,699 - DEBUG - Processing segment at 30:30.000
+2026-02-19 10:26:45,039 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 10:26:45,040 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:45,040 - DEBUG - Processing segment at 31:00.000
+2026-02-19 10:26:45,371 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.149414 < -1.000000)
+2026-02-19 10:26:45,371 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:45,371 - DEBUG - Processing segment at 31:30.000
+2026-02-19 10:26:45,722 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.140625 < -1.000000)
+2026-02-19 10:26:45,723 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:45,723 - DEBUG - Processing segment at 32:00.000
+2026-02-19 10:26:46,041 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 10:26:46,041 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:46,042 - DEBUG - Processing segment at 32:30.000
+2026-02-19 10:26:46,341 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.119141 < -1.000000)
+2026-02-19 10:26:46,342 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 10:26:46,342 - DEBUG - Processing segment at 33:00.000
+2026-02-19 10:26:46,930 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 10:26:46,931 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:46,931 - DEBUG - Processing segment at 33:30.000
+2026-02-19 10:26:47,200 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.157227 < -1.000000)
+2026-02-19 10:26:47,201 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 10:26:47,201 - DEBUG - Processing segment at 34:00.000
+2026-02-19 10:26:47,498 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.128906 < -1.000000)
+2026-02-19 10:26:47,498 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:47,499 - DEBUG - Processing segment at 34:30.000
+2026-02-19 10:26:48,199 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.242839 < -1.000000)
+2026-02-19 10:26:48,199 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:48,200 - DEBUG - Processing segment at 35:00.000
+2026-02-19 10:26:48,748 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.054688 < -1.000000)
+2026-02-19 10:26:48,748 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:26:48,749 - DEBUG - Processing segment at 35:30.000
+2026-02-19 10:26:49,041 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 10:26:49,042 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 10:26:49,042 - DEBUG - Processing segment at 36:00.000
+2026-02-19 10:26:49,352 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.087891 < -1.000000)
+2026-02-19 10:26:49,352 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:49,352 - DEBUG - Processing segment at 36:30.000
+2026-02-19 10:26:49,826 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 10:26:49,826 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:49,826 - DEBUG - Processing segment at 37:00.000
+2026-02-19 10:26:50,155 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.092773 < -1.000000)
+2026-02-19 10:26:50,156 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 10:26:50,156 - DEBUG - Processing segment at 37:30.000
+2026-02-19 10:26:50,478 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.130859 < -1.000000)
+2026-02-19 10:26:50,478 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:50,478 - DEBUG - Processing segment at 38:00.000
+2026-02-19 10:26:50,832 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 10:26:50,832 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:50,833 - DEBUG - Processing segment at 38:30.000
+2026-02-19 10:26:51,329 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 10:26:51,330 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:51,330 - DEBUG - Processing segment at 39:00.000
+2026-02-19 10:26:51,638 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 10:26:51,639 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:26:51,639 - DEBUG - Processing segment at 39:30.000
+2026-02-19 10:26:51,973 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 10:26:51,973 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:51,973 - DEBUG - Processing segment at 40:00.000
+2026-02-19 10:26:52,275 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.152344 < -1.000000)
+2026-02-19 10:26:52,275 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:52,275 - DEBUG - Processing segment at 40:30.000
+2026-02-19 10:26:52,538 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.134766 < -1.000000)
+2026-02-19 10:26:52,539 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:52,539 - DEBUG - Processing segment at 41:00.000
+2026-02-19 10:26:52,863 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.170898 < -1.000000)
+2026-02-19 10:26:52,864 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:52,864 - DEBUG - Processing segment at 41:30.000
+2026-02-19 10:26:53,433 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.056641 < -1.000000)
+2026-02-19 10:26:53,433 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 10:26:53,434 - DEBUG - Processing segment at 42:00.000
+2026-02-19 10:26:53,753 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.179687 < -1.000000)
+2026-02-19 10:26:53,753 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:26:53,753 - DEBUG - Processing segment at 42:30.000
+2026-02-19 10:26:54,081 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 10:26:54,082 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:54,082 - DEBUG - Processing segment at 43:00.000
+2026-02-19 10:26:54,391 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 10:26:54,392 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:54,392 - DEBUG - Processing segment at 43:30.000
+2026-02-19 10:26:54,901 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 10:26:54,901 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 10:26:54,902 - DEBUG - Processing segment at 44:00.000
+2026-02-19 10:26:55,238 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 10:26:55,238 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:55,238 - DEBUG - Processing segment at 44:30.000
+2026-02-19 10:26:55,561 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 10:26:55,561 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:55,561 - DEBUG - Processing segment at 45:00.000
+2026-02-19 10:26:55,893 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 10:26:55,893 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 10:26:55,894 - DEBUG - Processing segment at 45:30.000
+2026-02-19 10:26:56,216 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 10:26:56,217 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 10:26:56,217 - DEBUG - Processing segment at 46:00.000
+2026-02-19 10:26:56,523 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 10:26:56,523 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:26:56,523 - DEBUG - Processing segment at 46:30.000
+2026-02-19 10:26:56,871 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.144531 < -1.000000)
+2026-02-19 10:26:56,872 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:56,872 - DEBUG - Processing segment at 47:00.000
+2026-02-19 10:26:57,211 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.116211 < -1.000000)
+2026-02-19 10:26:57,211 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 10:26:57,211 - DEBUG - Processing segment at 47:30.000
+2026-02-19 10:26:57,537 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.164063 < -1.000000)
+2026-02-19 10:26:57,538 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 10:26:57,538 - DEBUG - Processing segment at 48:00.000
+2026-02-19 10:26:58,118 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.061523 < -1.000000)
+2026-02-19 10:26:58,119 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 10:26:58,119 - DEBUG - Processing segment at 48:30.000
+2026-02-19 10:26:58,466 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.183594 < -1.000000)
+2026-02-19 10:26:58,466 - DEBUG - No speech threshold is met (0.961914 > 0.600000)
+2026-02-19 10:26:58,467 - DEBUG - Processing segment at 49:00.000
+2026-02-19 10:26:58,800 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 10:26:58,800 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 10:26:58,800 - DEBUG - Processing segment at 49:30.000
+2026-02-19 10:26:59,102 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.129883 < -1.000000)
+2026-02-19 10:26:59,102 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 10:26:59,110 - DEBUG - Processing segment at 50:00.000
+2026-02-19 10:26:59,583 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.031250 < -1.000000)
+2026-02-19 10:26:59,583 - DEBUG - No speech threshold is met (0.821289 > 0.600000)
+2026-02-19 10:28:59,825 - INFO - Processing audio with duration 41:59.365
+2026-02-19 10:29:08,805 - INFO - Detected language 'zh' with probability 1.00
+2026-02-19 10:29:08,904 - DEBUG - Processing segment at 00:00.000
+2026-02-19 10:29:14,943 - DEBUG - Processing segment at 00:29.800
+2026-02-19 10:29:21,217 - DEBUG - Processing segment at 00:59.400
+2026-02-19 10:29:26,789 - DEBUG - Processing segment at 01:27.600
+2026-02-19 10:29:32,528 - DEBUG - Processing segment at 01:56.400
+2026-02-19 10:29:38,331 - DEBUG - Processing segment at 02:25.000
+2026-02-19 10:29:43,585 - DEBUG - Processing segment at 02:52.000
+2026-02-19 10:29:49,323 - DEBUG - Processing segment at 03:21.000
+2026-02-19 10:29:55,082 - DEBUG - Processing segment at 03:48.000
+2026-02-19 10:30:01,033 - DEBUG - Processing segment at 04:16.000
+2026-02-19 10:30:06,566 - DEBUG - Processing segment at 04:42.000
+2026-02-19 10:30:12,628 - DEBUG - Processing segment at 05:10.000
+2026-02-19 10:30:18,848 - DEBUG - Processing segment at 05:38.000
+2026-02-19 10:30:23,682 - DEBUG - Processing segment at 06:06.000
+2026-02-19 10:30:29,126 - DEBUG - Processing segment at 06:34.000
+2026-02-19 10:30:34,845 - DEBUG - Processing segment at 07:02.000
+2026-02-19 10:30:41,563 - DEBUG - Processing segment at 07:31.000
+2026-02-19 10:30:47,632 - DEBUG - Processing segment at 07:59.000
+2026-02-19 10:30:53,646 - DEBUG - Processing segment at 08:27.000
+2026-02-19 10:31:00,624 - DEBUG - Processing segment at 08:56.000
+2026-02-19 10:31:07,296 - DEBUG - Processing segment at 09:25.000
+2026-02-19 10:31:14,458 - DEBUG - Processing segment at 09:54.000
+2026-02-19 10:31:21,239 - DEBUG - Processing segment at 10:23.000
+2026-02-19 10:31:27,575 - DEBUG - Processing segment at 10:51.000
+2026-02-19 10:31:33,997 - DEBUG - Processing segment at 11:20.000
+2026-02-19 10:31:40,575 - DEBUG - Processing segment at 11:49.000
+2026-02-19 10:31:47,054 - DEBUG - Processing segment at 12:18.000
+2026-02-19 10:31:53,593 - DEBUG - Processing segment at 12:46.000
+2026-02-19 10:31:59,230 - DEBUG - Processing segment at 13:14.000
+2026-02-19 10:32:05,302 - DEBUG - Processing segment at 13:43.000
+2026-02-19 10:32:11,792 - DEBUG - Processing segment at 14:11.000
+2026-02-19 10:32:17,270 - DEBUG - Processing segment at 14:38.000
+2026-02-19 10:32:23,254 - DEBUG - Processing segment at 15:05.000
+2026-02-19 10:32:28,917 - DEBUG - Processing segment at 15:33.000
+2026-02-19 10:32:36,314 - DEBUG - Processing segment at 16:01.000
+2026-02-19 10:32:43,628 - DEBUG - Processing segment at 16:29.000
+2026-02-19 10:32:49,806 - DEBUG - Processing segment at 16:58.000
+2026-02-19 10:32:56,431 - DEBUG - Processing segment at 17:27.000
+2026-02-19 10:33:03,015 - DEBUG - Processing segment at 17:55.000
+2026-02-19 10:33:09,457 - DEBUG - Processing segment at 18:23.000
+2026-02-19 10:33:16,177 - DEBUG - Processing segment at 18:51.000
+2026-02-19 10:33:22,296 - DEBUG - Processing segment at 19:18.000
+2026-02-19 10:33:28,369 - DEBUG - Processing segment at 19:47.000
+2026-02-19 10:33:34,866 - DEBUG - Processing segment at 20:14.000
+2026-02-19 10:33:41,184 - DEBUG - Processing segment at 20:43.000
+2026-02-19 10:33:47,287 - DEBUG - Processing segment at 21:12.000
+2026-02-19 10:33:53,736 - DEBUG - Processing segment at 21:41.000
+2026-02-19 10:34:00,347 - DEBUG - Processing segment at 22:10.000
+2026-02-19 10:34:07,283 - DEBUG - Processing segment at 22:38.000
+2026-02-19 10:34:14,569 - DEBUG - Processing segment at 23:07.000
+2026-02-19 10:34:21,802 - DEBUG - Processing segment at 23:35.000
+2026-02-19 10:34:28,817 - DEBUG - Processing segment at 24:04.000
+2026-02-19 10:34:35,536 - DEBUG - Processing segment at 24:33.000
+2026-02-19 10:34:41,228 - DEBUG - Processing segment at 25:01.000
+2026-02-19 10:34:47,149 - DEBUG - Processing segment at 25:30.000
+2026-02-19 10:34:53,341 - DEBUG - Processing segment at 25:59.000
+2026-02-19 10:34:59,617 - DEBUG - Processing segment at 26:28.000
+2026-02-19 10:35:06,105 - DEBUG - Processing segment at 26:57.000
+2026-02-19 10:35:13,871 - DEBUG - Processing segment at 27:26.000
+2026-02-19 10:35:21,497 - DEBUG - Processing segment at 27:54.000
+2026-02-19 10:35:28,713 - DEBUG - Processing segment at 28:23.000
+2026-02-19 10:35:35,409 - DEBUG - Processing segment at 28:51.000
+2026-02-19 10:35:42,720 - DEBUG - Processing segment at 29:20.000
+2026-02-19 10:35:49,939 - DEBUG - Processing segment at 29:49.000
+2026-02-19 10:35:56,216 - DEBUG - Processing segment at 30:17.000
+2026-02-19 10:36:02,774 - DEBUG - Processing segment at 30:45.000
+2026-02-19 10:36:09,207 - DEBUG - Processing segment at 31:14.000
+2026-02-19 10:36:16,511 - DEBUG - Processing segment at 31:43.000
+2026-02-19 10:36:23,698 - DEBUG - Processing segment at 32:11.000
+2026-02-19 10:36:30,938 - DEBUG - Processing segment at 32:40.000
+2026-02-19 10:36:37,462 - DEBUG - Processing segment at 33:09.000
+2026-02-19 10:36:43,960 - DEBUG - Processing segment at 33:37.000
+2026-02-19 10:36:51,211 - DEBUG - Processing segment at 34:06.000
+2026-02-19 10:36:58,788 - DEBUG - Processing segment at 34:34.000
+2026-02-19 10:37:05,236 - DEBUG - Processing segment at 35:02.000
+2026-02-19 10:37:11,832 - DEBUG - Processing segment at 35:31.000
+2026-02-19 10:37:18,491 - DEBUG - Processing segment at 35:59.000
+2026-02-19 10:37:24,998 - DEBUG - Processing segment at 36:27.000
+2026-02-19 10:37:31,332 - DEBUG - Processing segment at 36:56.000
+2026-02-19 10:37:37,505 - DEBUG - Processing segment at 37:24.000
+2026-02-19 10:37:43,513 - DEBUG - Processing segment at 37:52.000
+2026-02-19 10:37:49,653 - DEBUG - Processing segment at 38:20.000
+2026-02-19 10:37:55,028 - DEBUG - Processing segment at 38:48.000
+2026-02-19 10:37:59,641 - DEBUG - Processing segment at 39:17.000
+2026-02-19 10:38:05,248 - DEBUG - Processing segment at 39:46.000
+2026-02-19 10:38:10,617 - DEBUG - Processing segment at 40:15.000
+2026-02-19 10:38:15,799 - DEBUG - Processing segment at 40:44.000
+2026-02-19 10:38:20,814 - DEBUG - Processing segment at 41:12.000
+2026-02-19 10:38:24,179 - DEBUG - Processing segment at 41:41.000
+2026-02-19 10:39:42,300 - INFO - Processing audio with duration 30:26.901
+2026-02-19 10:39:47,756 - INFO - Detected language 'en' with probability 0.53
+2026-02-19 10:39:47,807 - DEBUG - Processing segment at 00:00.000
+2026-02-19 10:39:48,089 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.221680 < -1.000000)
+2026-02-19 10:39:48,089 - DEBUG - No speech threshold is met (0.620117 > 0.600000)
+2026-02-19 10:39:48,089 - DEBUG - Processing segment at 00:30.000
+2026-02-19 10:39:48,309 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 10:39:48,309 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:48,309 - DEBUG - Processing segment at 01:00.000
+2026-02-19 10:39:48,524 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.058594 < -1.000000)
+2026-02-19 10:39:48,525 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 10:39:48,525 - DEBUG - Processing segment at 01:30.000
+2026-02-19 10:39:48,741 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 10:39:48,742 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 10:39:48,742 - DEBUG - Processing segment at 02:00.000
+2026-02-19 10:39:48,954 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.116211 < -1.000000)
+2026-02-19 10:39:48,954 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:48,955 - DEBUG - Processing segment at 02:30.000
+2026-02-19 10:39:49,170 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.129883 < -1.000000)
+2026-02-19 10:39:49,170 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 10:39:49,170 - DEBUG - Processing segment at 03:00.000
+2026-02-19 10:39:49,387 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 10:39:49,387 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:49,387 - DEBUG - Processing segment at 03:30.000
+2026-02-19 10:39:49,599 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 10:39:49,599 - DEBUG - No speech threshold is met (0.994629 > 0.600000)
+2026-02-19 10:39:49,599 - DEBUG - Processing segment at 04:00.000
+2026-02-19 10:39:49,807 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.070313 < -1.000000)
+2026-02-19 10:39:49,807 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:49,807 - DEBUG - Processing segment at 04:30.000
+2026-02-19 10:39:50,021 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.062500 < -1.000000)
+2026-02-19 10:39:50,021 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:50,021 - DEBUG - Processing segment at 05:00.000
+2026-02-19 10:39:50,214 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 10:39:50,214 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 10:39:50,214 - DEBUG - Processing segment at 05:30.000
+2026-02-19 10:39:50,416 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.060547 < -1.000000)
+2026-02-19 10:39:50,416 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:50,417 - DEBUG - Processing segment at 06:00.000
+2026-02-19 10:39:50,616 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 10:39:50,617 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 10:39:50,617 - DEBUG - Processing segment at 06:30.000
+2026-02-19 10:39:50,815 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 10:39:50,815 - DEBUG - No speech threshold is met (0.990234 > 0.600000)
+2026-02-19 10:39:50,816 - DEBUG - Processing segment at 07:00.000
+2026-02-19 10:39:51,017 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.058594 < -1.000000)
+2026-02-19 10:39:51,018 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:51,018 - DEBUG - Processing segment at 07:30.000
+2026-02-19 10:39:51,240 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.065430 < -1.000000)
+2026-02-19 10:39:51,240 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:51,240 - DEBUG - Processing segment at 08:00.000
+2026-02-19 10:39:51,462 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.065430 < -1.000000)
+2026-02-19 10:39:51,462 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:51,462 - DEBUG - Processing segment at 08:30.000
+2026-02-19 10:39:51,705 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 10:39:51,707 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 10:39:51,707 - DEBUG - Processing segment at 09:00.000
+2026-02-19 10:39:51,925 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 10:39:51,925 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:39:51,925 - DEBUG - Processing segment at 09:30.000
+2026-02-19 10:39:52,131 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 10:39:52,131 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:52,131 - DEBUG - Processing segment at 10:00.000
+2026-02-19 10:39:52,351 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 10:39:52,352 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 10:39:52,352 - DEBUG - Processing segment at 10:30.000
+2026-02-19 10:39:52,576 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.151367 < -1.000000)
+2026-02-19 10:39:52,577 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 10:39:52,577 - DEBUG - Processing segment at 11:00.000
+2026-02-19 10:39:52,807 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.041992 < -1.000000)
+2026-02-19 10:39:52,807 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:52,807 - DEBUG - Processing segment at 11:30.000
+2026-02-19 10:39:53,041 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.026367 < -1.000000)
+2026-02-19 10:39:53,041 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:53,041 - DEBUG - Processing segment at 12:00.000
+2026-02-19 10:39:53,308 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.077148 < -1.000000)
+2026-02-19 10:39:53,308 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:53,308 - DEBUG - Processing segment at 12:30.000
+2026-02-19 10:39:53,538 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.144531 < -1.000000)
+2026-02-19 10:39:53,538 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:53,538 - DEBUG - Processing segment at 13:00.000
+2026-02-19 10:39:53,801 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.078125 < -1.000000)
+2026-02-19 10:39:53,802 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 10:39:53,802 - DEBUG - Processing segment at 13:30.000
+2026-02-19 10:39:54,069 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.070313 < -1.000000)
+2026-02-19 10:39:54,069 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:54,070 - DEBUG - Processing segment at 14:00.000
+2026-02-19 10:39:54,335 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.049805 < -1.000000)
+2026-02-19 10:39:54,335 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:54,335 - DEBUG - Processing segment at 14:30.000
+2026-02-19 10:39:54,550 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 10:39:54,550 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 10:39:54,553 - DEBUG - Processing segment at 15:00.000
+2026-02-19 10:39:54,783 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.054688 < -1.000000)
+2026-02-19 10:39:54,784 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:54,784 - DEBUG - Processing segment at 15:30.000
+2026-02-19 10:39:55,009 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 10:39:55,009 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:55,009 - DEBUG - Processing segment at 16:00.000
+2026-02-19 10:39:55,237 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.041992 < -1.000000)
+2026-02-19 10:39:55,237 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:55,237 - DEBUG - Processing segment at 16:30.000
+2026-02-19 10:39:55,487 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.112305 < -1.000000)
+2026-02-19 10:39:55,487 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:55,487 - DEBUG - Processing segment at 17:00.000
+2026-02-19 10:39:55,742 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.068359 < -1.000000)
+2026-02-19 10:39:55,743 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:55,743 - DEBUG - Processing segment at 17:30.000
+2026-02-19 10:39:55,994 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 10:39:55,994 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:55,994 - DEBUG - Processing segment at 18:00.000
+2026-02-19 10:39:56,241 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.076172 < -1.000000)
+2026-02-19 10:39:56,242 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 10:39:56,242 - DEBUG - Processing segment at 18:30.000
+2026-02-19 10:39:56,516 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 10:39:56,516 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 10:39:56,517 - DEBUG - Processing segment at 19:00.000
+2026-02-19 10:39:56,776 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.079102 < -1.000000)
+2026-02-19 10:39:56,776 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 10:39:56,776 - DEBUG - Processing segment at 19:30.000
+2026-02-19 10:39:57,044 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 10:39:57,044 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 10:39:57,044 - DEBUG - Processing segment at 20:00.000
+2026-02-19 10:39:57,302 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 10:39:57,302 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 10:39:57,302 - DEBUG - Processing segment at 20:30.000
+2026-02-19 10:39:57,560 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 10:39:57,560 - DEBUG - No speech threshold is met (0.990234 > 0.600000)
+2026-02-19 10:39:57,560 - DEBUG - Processing segment at 21:00.000
+2026-02-19 10:39:57,834 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.053711 < -1.000000)
+2026-02-19 10:39:57,834 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:39:57,834 - DEBUG - Processing segment at 21:30.000
+2026-02-19 10:39:58,077 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 10:39:58,077 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:39:58,077 - DEBUG - Processing segment at 22:00.000
+2026-02-19 10:39:58,323 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.114258 < -1.000000)
+2026-02-19 10:39:58,323 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 10:39:58,323 - DEBUG - Processing segment at 22:30.000
+2026-02-19 10:39:58,568 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.126953 < -1.000000)
+2026-02-19 10:39:58,569 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 10:39:58,569 - DEBUG - Processing segment at 23:00.000
+2026-02-19 10:39:58,806 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 10:39:58,806 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:58,806 - DEBUG - Processing segment at 23:30.000
+2026-02-19 10:39:59,037 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 10:39:59,037 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 10:39:59,037 - DEBUG - Processing segment at 24:00.000
+2026-02-19 10:39:59,295 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 10:39:59,295 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 10:39:59,295 - DEBUG - Processing segment at 24:30.000
+2026-02-19 10:39:59,550 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 10:39:59,550 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:39:59,550 - DEBUG - Processing segment at 25:00.000
+2026-02-19 10:39:59,780 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 10:39:59,780 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 10:39:59,781 - DEBUG - Processing segment at 25:30.000
+2026-02-19 10:40:00,043 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.118164 < -1.000000)
+2026-02-19 10:40:00,043 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 10:40:00,043 - DEBUG - Processing segment at 26:00.000
+2026-02-19 10:40:00,282 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.075195 < -1.000000)
+2026-02-19 10:40:00,282 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 10:40:00,283 - DEBUG - Processing segment at 26:30.000
+2026-02-19 10:40:00,531 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.098633 < -1.000000)
+2026-02-19 10:40:00,531 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 10:40:00,534 - DEBUG - Processing segment at 27:00.000
+2026-02-19 10:40:00,763 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.074219 < -1.000000)
+2026-02-19 10:40:00,763 - DEBUG - No speech threshold is met (0.994141 > 0.600000)
+2026-02-19 10:40:00,763 - DEBUG - Processing segment at 27:30.000
+2026-02-19 10:40:01,015 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 10:40:01,015 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 10:40:01,015 - DEBUG - Processing segment at 28:00.000
+2026-02-19 10:40:01,254 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.066406 < -1.000000)
+2026-02-19 10:40:01,254 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 10:40:01,254 - DEBUG - Processing segment at 28:30.000
+2026-02-19 10:40:01,493 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 10:40:01,493 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:40:01,493 - DEBUG - Processing segment at 29:00.000
+2026-02-19 10:40:01,709 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.104492 < -1.000000)
+2026-02-19 10:40:01,711 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 10:40:01,711 - DEBUG - Processing segment at 29:30.000
+2026-02-19 10:40:01,937 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.072266 < -1.000000)
+2026-02-19 10:40:01,937 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 10:40:01,940 - DEBUG - Processing segment at 30:00.000
+2026-02-19 10:42:21,665 - INFO - Processing audio with duration 59:49.341
+2026-02-19 10:42:34,120 - INFO - Detected language 'en' with probability 0.53
+2026-02-19 10:42:34,192 - DEBUG - Processing segment at 00:00.000
+2026-02-19 10:42:34,792 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.287109 < -1.000000)
+2026-02-19 10:42:34,792 - DEBUG - No speech threshold is met (0.825195 > 0.600000)
+2026-02-19 10:42:34,793 - DEBUG - Processing segment at 00:30.000
+2026-02-19 10:42:36,852 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:42:37,355 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.133629 < -1.000000)
+2026-02-19 10:42:37,355 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 10:42:37,355 - DEBUG - Processing segment at 01:00.000
+2026-02-19 10:42:38,015 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.394531 < -1.000000)
+2026-02-19 10:42:38,015 - DEBUG - No speech threshold is met (0.967773 > 0.600000)
+2026-02-19 10:42:38,015 - DEBUG - Processing segment at 01:30.000
+2026-02-19 10:42:39,950 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:42:41,589 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (3.608108 > 2.400000)
+2026-02-19 10:42:44,841 - DEBUG - Compression ratio threshold is not met with temperature 0.4 (9.184211 > 2.400000)
+2026-02-19 10:42:45,646 - DEBUG - Log probability threshold is not met with temperature 0.6 (-1.166428 < -1.000000)
+2026-02-19 10:42:45,646 - DEBUG - No speech threshold is met (0.974609 > 0.600000)
+2026-02-19 10:42:45,647 - DEBUG - Processing segment at 02:00.000
+2026-02-19 10:42:51,676 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (14.118644 > 2.400000)
+2026-02-19 10:42:51,856 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.885620 < -1.000000)
+2026-02-19 10:42:51,856 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 10:42:51,857 - DEBUG - Processing segment at 02:30.000
+2026-02-19 10:42:52,202 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.167969 < -1.000000)
+2026-02-19 10:42:52,202 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 10:42:52,202 - DEBUG - Processing segment at 03:00.000
+2026-02-19 10:42:52,746 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.376302 < -1.000000)
+2026-02-19 10:42:52,747 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:42:52,747 - DEBUG - Processing segment at 03:30.000
+2026-02-19 10:42:53,080 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.216797 < -1.000000)
+2026-02-19 10:42:53,080 - DEBUG - No speech threshold is met (0.959473 > 0.600000)
+2026-02-19 10:42:53,080 - DEBUG - Processing segment at 04:00.000
+2026-02-19 10:42:53,325 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.197266 < -1.000000)
+2026-02-19 10:42:53,326 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:42:53,326 - DEBUG - Processing segment at 04:30.000
+2026-02-19 10:42:55,085 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:42:55,255 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.804184 < -1.000000)
+2026-02-19 10:42:55,256 - DEBUG - No speech threshold is met (0.969727 > 0.600000)
+2026-02-19 10:42:55,256 - DEBUG - Processing segment at 05:00.000
+2026-02-19 10:42:55,840 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.185547 < -1.000000)
+2026-02-19 10:42:55,840 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:42:55,840 - DEBUG - Processing segment at 05:30.000
+2026-02-19 10:42:57,774 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:42:58,129 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.227051 < -1.000000)
+2026-02-19 10:42:58,129 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 10:42:58,130 - DEBUG - Processing segment at 06:00.000
+2026-02-19 10:42:59,039 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.391369 < -1.000000)
+2026-02-19 10:42:59,039 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:42:59,039 - DEBUG - Processing segment at 06:30.000
+2026-02-19 10:42:59,637 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.401042 < -1.000000)
+2026-02-19 10:42:59,637 - DEBUG - No speech threshold is met (0.971191 > 0.600000)
+2026-02-19 10:42:59,637 - DEBUG - Processing segment at 07:00.000
+2026-02-19 10:43:00,222 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.399740 < -1.000000)
+2026-02-19 10:43:00,222 - DEBUG - No speech threshold is met (0.973145 > 0.600000)
+2026-02-19 10:43:00,222 - DEBUG - Processing segment at 07:30.000
+2026-02-19 10:43:02,116 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:02,241 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.166283 < -1.000000)
+2026-02-19 10:43:02,242 - DEBUG - No speech threshold is met (0.970703 > 0.600000)
+2026-02-19 10:43:02,242 - DEBUG - Processing segment at 08:00.000
+2026-02-19 10:43:06,452 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (6.218182 > 2.400000)
+2026-02-19 10:43:08,866 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (4.448980 > 2.400000)
+2026-02-19 10:43:13,838 - DEBUG - Compression ratio threshold is not met with temperature 0.4 (6.800000 > 2.400000)
+2026-02-19 10:43:17,006 - DEBUG - Log probability threshold is not met with temperature 0.6 (-1.259258 < -1.000000)
+2026-02-19 10:43:17,007 - DEBUG - No speech threshold is met (0.947266 > 0.600000)
+2026-02-19 10:43:17,007 - DEBUG - Processing segment at 08:30.000
+2026-02-19 10:43:18,995 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:19,323 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.178285 < -1.000000)
+2026-02-19 10:43:19,323 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 10:43:19,323 - DEBUG - Processing segment at 09:00.000
+2026-02-19 10:43:20,217 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.375744 < -1.000000)
+2026-02-19 10:43:20,218 - DEBUG - No speech threshold is met (0.951172 > 0.600000)
+2026-02-19 10:43:20,218 - DEBUG - Processing segment at 09:30.000
+2026-02-19 10:43:20,501 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.205078 < -1.000000)
+2026-02-19 10:43:20,501 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:43:20,501 - DEBUG - Processing segment at 10:00.000
+2026-02-19 10:43:22,295 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:22,457 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.191101 < -1.000000)
+2026-02-19 10:43:22,458 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 10:43:22,458 - DEBUG - Processing segment at 10:30.000
+2026-02-19 10:43:24,250 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:24,407 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.155472 < -1.000000)
+2026-02-19 10:43:24,407 - DEBUG - No speech threshold is met (0.978516 > 0.600000)
+2026-02-19 10:43:24,407 - DEBUG - Processing segment at 11:00.000
+2026-02-19 10:43:26,057 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.181818 > 2.400000)
+2026-02-19 10:43:26,249 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.366653 < -1.000000)
+2026-02-19 10:43:26,249 - DEBUG - No speech threshold is met (0.973633 > 0.600000)
+2026-02-19 10:43:26,249 - DEBUG - Processing segment at 11:30.000
+2026-02-19 10:43:26,791 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.408854 < -1.000000)
+2026-02-19 10:43:26,792 - DEBUG - No speech threshold is met (0.960938 > 0.600000)
+2026-02-19 10:43:26,792 - DEBUG - Processing segment at 12:00.000
+2026-02-19 10:43:27,328 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.342448 < -1.000000)
+2026-02-19 10:43:27,328 - DEBUG - No speech threshold is met (0.969238 > 0.600000)
+2026-02-19 10:43:27,329 - DEBUG - Processing segment at 12:30.000
+2026-02-19 10:43:29,116 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:29,470 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.532234 < -1.000000)
+2026-02-19 10:43:29,470 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:43:29,470 - DEBUG - Processing segment at 13:00.000
+2026-02-19 10:43:29,827 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.149414 < -1.000000)
+2026-02-19 10:43:29,828 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 10:43:29,828 - DEBUG - Processing segment at 13:30.000
+2026-02-19 10:43:31,655 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:32,261 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (2.411765 > 2.400000)
+2026-02-19 10:43:35,080 - DEBUG - Compression ratio threshold is not met with temperature 0.4 (5.171875 > 2.400000)
+2026-02-19 10:43:37,336 - DEBUG - Compression ratio threshold is not met with temperature 0.6 (5.792453 > 2.400000)
+2026-02-19 10:43:38,281 - DEBUG - Log probability threshold is not met with temperature 0.8 (-1.205383 < -1.000000)
+2026-02-19 10:43:38,281 - DEBUG - No speech threshold is met (0.971680 > 0.600000)
+2026-02-19 10:43:38,282 - DEBUG - Processing segment at 14:00.000
+2026-02-19 10:43:40,563 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.642857 > 2.400000)
+2026-02-19 10:43:40,752 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.163017 < -1.000000)
+2026-02-19 10:43:40,752 - DEBUG - No speech threshold is met (0.969238 > 0.600000)
+2026-02-19 10:43:40,752 - DEBUG - Processing segment at 14:30.000
+2026-02-19 10:43:42,642 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:42,814 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.763351 < -1.000000)
+2026-02-19 10:43:42,814 - DEBUG - No speech threshold is met (0.974609 > 0.600000)
+2026-02-19 10:43:42,815 - DEBUG - Processing segment at 15:00.000
+2026-02-19 10:43:43,444 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.402344 < -1.000000)
+2026-02-19 10:43:43,444 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:43:43,444 - DEBUG - Processing segment at 15:30.000
+2026-02-19 10:43:45,209 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:45,389 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.194046 < -1.000000)
+2026-02-19 10:43:45,389 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 10:43:45,390 - DEBUG - Processing segment at 16:00.000
+2026-02-19 10:43:47,245 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:47,421 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.836578 < -1.000000)
+2026-02-19 10:43:47,421 - DEBUG - No speech threshold is met (0.962891 > 0.600000)
+2026-02-19 10:43:47,421 - DEBUG - Processing segment at 16:30.000
+2026-02-19 10:43:49,302 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:49,491 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.197014 < -1.000000)
+2026-02-19 10:43:49,492 - DEBUG - No speech threshold is met (0.973633 > 0.600000)
+2026-02-19 10:43:49,492 - DEBUG - Processing segment at 17:00.000
+2026-02-19 10:43:53,291 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (7.558140 > 2.400000)
+2026-02-19 10:43:53,488 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.265747 < -1.000000)
+2026-02-19 10:43:53,488 - DEBUG - No speech threshold is met (0.973633 > 0.600000)
+2026-02-19 10:43:53,488 - DEBUG - Processing segment at 17:30.000
+2026-02-19 10:43:54,106 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.384115 < -1.000000)
+2026-02-19 10:43:54,106 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:43:54,106 - DEBUG - Processing segment at 18:00.000
+2026-02-19 10:43:54,706 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.377604 < -1.000000)
+2026-02-19 10:43:54,706 - DEBUG - No speech threshold is met (0.972168 > 0.600000)
+2026-02-19 10:43:54,706 - DEBUG - Processing segment at 18:30.000
+2026-02-19 10:43:54,998 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.180664 < -1.000000)
+2026-02-19 10:43:54,998 - DEBUG - No speech threshold is met (0.973633 > 0.600000)
+2026-02-19 10:43:54,998 - DEBUG - Processing segment at 19:00.000
+2026-02-19 10:43:56,747 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:56,933 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.102325 < -1.000000)
+2026-02-19 10:43:56,934 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:43:56,934 - DEBUG - Processing segment at 19:30.000
+2026-02-19 10:43:58,654 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:43:59,036 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.253376 < -1.000000)
+2026-02-19 10:43:59,036 - DEBUG - No speech threshold is met (0.919922 > 0.600000)
+2026-02-19 10:43:59,036 - DEBUG - Processing segment at 20:00.000
+2026-02-19 10:43:59,369 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.215820 < -1.000000)
+2026-02-19 10:43:59,369 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 10:43:59,369 - DEBUG - Processing segment at 20:30.000
+2026-02-19 10:44:01,135 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:01,494 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.923941 < -1.000000)
+2026-02-19 10:44:01,494 - DEBUG - No speech threshold is met (0.935547 > 0.600000)
+2026-02-19 10:44:01,494 - DEBUG - Processing segment at 21:00.000
+2026-02-19 10:44:03,341 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:03,508 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.173363 < -1.000000)
+2026-02-19 10:44:03,508 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 10:44:03,508 - DEBUG - Processing segment at 21:30.000
+2026-02-19 10:44:05,323 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:05,493 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.219437 < -1.000000)
+2026-02-19 10:44:05,493 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 10:44:05,493 - DEBUG - Processing segment at 22:00.000
+2026-02-19 10:44:07,317 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:07,493 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.180298 < -1.000000)
+2026-02-19 10:44:07,493 - DEBUG - No speech threshold is met (0.981445 > 0.600000)
+2026-02-19 10:44:07,493 - DEBUG - Processing segment at 22:30.000
+2026-02-19 10:44:08,039 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.398437 < -1.000000)
+2026-02-19 10:44:08,040 - DEBUG - No speech threshold is met (0.978516 > 0.600000)
+2026-02-19 10:44:08,040 - DEBUG - Processing segment at 23:00.000
+2026-02-19 10:44:08,879 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.382440 < -1.000000)
+2026-02-19 10:44:08,880 - DEBUG - No speech threshold is met (0.974609 > 0.600000)
+2026-02-19 10:44:08,880 - DEBUG - Processing segment at 23:30.000
+2026-02-19 10:44:10,703 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:11,037 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.851119 < -1.000000)
+2026-02-19 10:44:11,038 - DEBUG - No speech threshold is met (0.967773 > 0.600000)
+2026-02-19 10:44:11,038 - DEBUG - Processing segment at 24:00.000
+2026-02-19 10:44:16,988 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (13.176471 > 2.400000)
+2026-02-19 10:44:19,830 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (6.940000 > 2.400000)
+2026-02-19 10:44:20,106 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.366519 < -1.000000)
+2026-02-19 10:44:20,108 - DEBUG - No speech threshold is met (0.939453 > 0.600000)
+2026-02-19 10:44:20,108 - DEBUG - Processing segment at 24:30.000
+2026-02-19 10:44:21,024 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.388393 < -1.000000)
+2026-02-19 10:44:21,025 - DEBUG - No speech threshold is met (0.971191 > 0.600000)
+2026-02-19 10:44:21,025 - DEBUG - Processing segment at 25:00.000
+2026-02-19 10:44:24,796 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (7.558140 > 2.400000)
+2026-02-19 10:44:27,851 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (6.269231 > 2.400000)
+2026-02-19 10:44:28,016 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.215836 < -1.000000)
+2026-02-19 10:44:28,016 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 10:44:28,016 - DEBUG - Processing segment at 25:30.000
+2026-02-19 10:44:28,375 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.153320 < -1.000000)
+2026-02-19 10:44:28,376 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:44:28,376 - DEBUG - Processing segment at 26:00.000
+2026-02-19 10:44:33,813 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (14.203125 > 2.400000)
+2026-02-19 10:44:34,174 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.216461 < -1.000000)
+2026-02-19 10:44:34,174 - DEBUG - No speech threshold is met (0.964844 > 0.600000)
+2026-02-19 10:44:34,174 - DEBUG - Processing segment at 26:30.000
+2026-02-19 10:44:36,085 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:36,251 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.224014 < -1.000000)
+2026-02-19 10:44:36,251 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:44:36,251 - DEBUG - Processing segment at 27:00.000
+2026-02-19 10:44:36,797 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.434896 < -1.000000)
+2026-02-19 10:44:36,797 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:44:36,797 - DEBUG - Processing segment at 27:30.000
+2026-02-19 10:44:37,362 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.429688 < -1.000000)
+2026-02-19 10:44:37,362 - DEBUG - No speech threshold is met (0.951172 > 0.600000)
+2026-02-19 10:44:37,364 - DEBUG - Processing segment at 28:00.000
+2026-02-19 10:44:39,338 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:39,513 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.194527 < -1.000000)
+2026-02-19 10:44:39,513 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 10:44:39,513 - DEBUG - Processing segment at 28:30.000
+2026-02-19 10:44:41,347 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:41,515 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.831238 < -1.000000)
+2026-02-19 10:44:41,515 - DEBUG - No speech threshold is met (0.970215 > 0.600000)
+2026-02-19 10:44:41,515 - DEBUG - Processing segment at 29:00.000
+2026-02-19 10:44:42,981 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (2.909091 > 2.400000)
+2026-02-19 10:44:42,981 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.022606 < -1.000000)
+2026-02-19 10:44:42,981 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:44:42,981 - DEBUG - Processing segment at 29:30.000
+2026-02-19 10:44:43,599 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.373698 < -1.000000)
+2026-02-19 10:44:43,600 - DEBUG - No speech threshold is met (0.958984 > 0.600000)
+2026-02-19 10:44:43,600 - DEBUG - Processing segment at 30:00.000
+2026-02-19 10:44:45,395 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:45,755 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.530802 < -1.000000)
+2026-02-19 10:44:45,755 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 10:44:45,756 - DEBUG - Processing segment at 30:30.000
+2026-02-19 10:44:46,739 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.195312 < -1.000000)
+2026-02-19 10:44:46,740 - DEBUG - No speech threshold is met (0.971680 > 0.600000)
+2026-02-19 10:44:46,740 - DEBUG - Processing segment at 31:00.000
+2026-02-19 10:44:48,485 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:52,195 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (6.182927 > 2.400000)
+2026-02-19 10:44:52,637 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.955042 < -1.000000)
+2026-02-19 10:44:52,637 - DEBUG - No speech threshold is met (0.961914 > 0.600000)
+2026-02-19 10:44:52,637 - DEBUG - Processing segment at 31:30.000
+2026-02-19 10:44:54,515 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:54,965 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.027883 < -1.000000)
+2026-02-19 10:44:54,965 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 10:44:54,965 - DEBUG - Processing segment at 32:00.000
+2026-02-19 10:44:56,857 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:57,025 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.837830 < -1.000000)
+2026-02-19 10:44:57,025 - DEBUG - No speech threshold is met (0.924316 > 0.600000)
+2026-02-19 10:44:57,026 - DEBUG - Processing segment at 32:30.000
+2026-02-19 10:44:58,870 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:44:59,067 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.147453 < -1.000000)
+2026-02-19 10:44:59,067 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 10:44:59,067 - DEBUG - Processing segment at 33:00.000
+2026-02-19 10:44:59,587 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.402344 < -1.000000)
+2026-02-19 10:44:59,588 - DEBUG - No speech threshold is met (0.979980 > 0.600000)
+2026-02-19 10:44:59,588 - DEBUG - Processing segment at 33:30.000
+2026-02-19 10:45:01,449 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:01,616 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.182587 < -1.000000)
+2026-02-19 10:45:01,617 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 10:45:01,617 - DEBUG - Processing segment at 34:00.000
+2026-02-19 10:45:07,480 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (13.520833 > 2.400000)
+2026-02-19 10:45:07,639 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.216812 < -1.000000)
+2026-02-19 10:45:07,639 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 10:45:07,640 - DEBUG - Processing segment at 34:30.000
+2026-02-19 10:45:08,436 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.389137 < -1.000000)
+2026-02-19 10:45:08,436 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:45:08,436 - DEBUG - Processing segment at 35:00.000
+2026-02-19 10:45:09,016 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.381510 < -1.000000)
+2026-02-19 10:45:09,016 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 10:45:09,016 - DEBUG - Processing segment at 35:30.000
+2026-02-19 10:45:09,831 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.381696 < -1.000000)
+2026-02-19 10:45:09,831 - DEBUG - No speech threshold is met (0.944336 > 0.600000)
+2026-02-19 10:45:09,832 - DEBUG - Processing segment at 36:00.000
+2026-02-19 10:45:11,628 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:11,820 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.847405 < -1.000000)
+2026-02-19 10:45:11,820 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 10:45:11,820 - DEBUG - Processing segment at 36:30.000
+2026-02-19 10:45:12,398 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.391927 < -1.000000)
+2026-02-19 10:45:12,398 - DEBUG - No speech threshold is met (0.963379 > 0.600000)
+2026-02-19 10:45:12,398 - DEBUG - Processing segment at 37:00.000
+2026-02-19 10:45:14,227 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:14,496 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.147583 < -1.000000)
+2026-02-19 10:45:14,497 - DEBUG - No speech threshold is met (0.970215 > 0.600000)
+2026-02-19 10:45:14,497 - DEBUG - Processing segment at 37:30.000
+2026-02-19 10:45:15,335 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.373512 < -1.000000)
+2026-02-19 10:45:15,335 - DEBUG - No speech threshold is met (0.961914 > 0.600000)
+2026-02-19 10:45:15,335 - DEBUG - Processing segment at 38:00.000
+2026-02-19 10:45:15,760 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.082031 < -1.000000)
+2026-02-19 10:45:15,760 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 10:45:15,760 - DEBUG - Processing segment at 38:30.000
+2026-02-19 10:45:16,336 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.414062 < -1.000000)
+2026-02-19 10:45:16,337 - DEBUG - No speech threshold is met (0.972168 > 0.600000)
+2026-02-19 10:45:16,337 - DEBUG - Processing segment at 39:00.000
+2026-02-19 10:45:16,866 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.425781 < -1.000000)
+2026-02-19 10:45:16,866 - DEBUG - No speech threshold is met (0.956543 > 0.600000)
+2026-02-19 10:45:16,866 - DEBUG - Processing segment at 39:30.000
+2026-02-19 10:45:18,665 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:18,863 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.155571 < -1.000000)
+2026-02-19 10:45:18,863 - DEBUG - No speech threshold is met (0.967773 > 0.600000)
+2026-02-19 10:45:18,863 - DEBUG - Processing segment at 40:00.000
+2026-02-19 10:45:19,434 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.416667 < -1.000000)
+2026-02-19 10:45:19,434 - DEBUG - No speech threshold is met (0.960938 > 0.600000)
+2026-02-19 10:45:19,434 - DEBUG - Processing segment at 40:30.000
+2026-02-19 10:45:24,872 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (11.830769 > 2.400000)
+2026-02-19 10:45:25,037 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.925537 < -1.000000)
+2026-02-19 10:45:25,037 - DEBUG - No speech threshold is met (0.974609 > 0.600000)
+2026-02-19 10:45:25,037 - DEBUG - Processing segment at 41:00.000
+2026-02-19 10:45:26,400 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.025298 < -1.000000)
+2026-02-19 10:45:26,400 - DEBUG - No speech threshold is met (0.968262 > 0.600000)
+2026-02-19 10:45:26,400 - DEBUG - Processing segment at 41:30.000
+2026-02-19 10:45:28,263 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:28,450 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.160233 < -1.000000)
+2026-02-19 10:45:28,450 - DEBUG - No speech threshold is met (0.972168 > 0.600000)
+2026-02-19 10:45:28,450 - DEBUG - Processing segment at 42:00.000
+2026-02-19 10:45:33,969 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (14.118644 > 2.400000)
+2026-02-19 10:45:34,122 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.193649 < -1.000000)
+2026-02-19 10:45:34,123 - DEBUG - No speech threshold is met (0.978516 > 0.600000)
+2026-02-19 10:45:34,123 - DEBUG - Processing segment at 42:30.000
+2026-02-19 10:45:36,025 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:36,358 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.321533 < -1.000000)
+2026-02-19 10:45:36,358 - DEBUG - No speech threshold is met (0.971191 > 0.600000)
+2026-02-19 10:45:36,358 - DEBUG - Processing segment at 43:00.000
+2026-02-19 10:45:36,726 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.189453 < -1.000000)
+2026-02-19 10:45:36,726 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 10:45:36,726 - DEBUG - Processing segment at 43:30.000
+2026-02-19 10:45:36,997 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.886719 < -1.000000)
+2026-02-19 10:45:36,997 - DEBUG - No speech threshold is met (0.940918 > 0.600000)
+2026-02-19 10:45:36,998 - DEBUG - Processing segment at 44:00.000
+2026-02-19 10:45:37,251 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.211914 < -1.000000)
+2026-02-19 10:45:37,251 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 10:45:37,251 - DEBUG - Processing segment at 44:30.000
+2026-02-19 10:45:37,729 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.386719 < -1.000000)
+2026-02-19 10:45:37,729 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 10:45:37,730 - DEBUG - Processing segment at 45:00.000
+2026-02-19 10:45:39,551 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:39,762 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.210472 < -1.000000)
+2026-02-19 10:45:39,762 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:45:39,762 - DEBUG - Processing segment at 45:30.000
+2026-02-19 10:45:45,443 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (12.723077 > 2.400000)
+2026-02-19 10:45:45,781 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.175018 < -1.000000)
+2026-02-19 10:45:45,781 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 10:45:45,782 - DEBUG - Processing segment at 46:00.000
+2026-02-19 10:45:46,696 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.393601 < -1.000000)
+2026-02-19 10:45:46,697 - DEBUG - No speech threshold is met (0.969238 > 0.600000)
+2026-02-19 10:45:46,697 - DEBUG - Processing segment at 46:30.000
+2026-02-19 10:45:48,911 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.642857 > 2.400000)
+2026-02-19 10:45:49,104 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.134140 < -1.000000)
+2026-02-19 10:45:49,104 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:45:49,104 - DEBUG - Processing segment at 47:00.000
+2026-02-19 10:45:49,699 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.401042 < -1.000000)
+2026-02-19 10:45:49,700 - DEBUG - No speech threshold is met (0.955566 > 0.600000)
+2026-02-19 10:45:49,700 - DEBUG - Processing segment at 47:30.000
+2026-02-19 10:45:51,473 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:51,670 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.187508 < -1.000000)
+2026-02-19 10:45:51,671 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:45:51,671 - DEBUG - Processing segment at 48:00.000
+2026-02-19 10:45:52,310 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.389323 < -1.000000)
+2026-02-19 10:45:52,310 - DEBUG - No speech threshold is met (0.960938 > 0.600000)
+2026-02-19 10:45:52,311 - DEBUG - Processing segment at 48:30.000
+2026-02-19 10:45:54,048 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:54,355 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.274943 < -1.000000)
+2026-02-19 10:45:54,355 - DEBUG - No speech threshold is met (0.972168 > 0.600000)
+2026-02-19 10:45:54,355 - DEBUG - Processing segment at 49:00.000
+2026-02-19 10:45:54,680 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.254883 < -1.000000)
+2026-02-19 10:45:54,681 - DEBUG - No speech threshold is met (0.971680 > 0.600000)
+2026-02-19 10:45:54,681 - DEBUG - Processing segment at 49:30.000
+2026-02-19 10:45:56,512 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:45:56,710 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.160172 < -1.000000)
+2026-02-19 10:45:56,711 - DEBUG - No speech threshold is met (0.972656 > 0.600000)
+2026-02-19 10:45:56,711 - DEBUG - Processing segment at 50:00.000
+2026-02-19 10:45:57,254 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.436198 < -1.000000)
+2026-02-19 10:45:57,254 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:45:57,254 - DEBUG - Processing segment at 50:30.000
+2026-02-19 10:45:57,520 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.161133 < -1.000000)
+2026-02-19 10:45:57,521 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:45:57,521 - DEBUG - Processing segment at 51:00.000
+2026-02-19 10:45:57,801 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.204102 < -1.000000)
+2026-02-19 10:45:57,802 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 10:45:57,802 - DEBUG - Processing segment at 51:30.000
+2026-02-19 10:45:58,057 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.838867 < -1.000000)
+2026-02-19 10:45:58,057 - DEBUG - No speech threshold is met (0.961426 > 0.600000)
+2026-02-19 10:45:58,057 - DEBUG - Processing segment at 52:00.000
+2026-02-19 10:46:03,440 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (18.893617 > 2.400000)
+2026-02-19 10:46:06,284 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (5.268657 > 2.400000)
+2026-02-19 10:46:06,612 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.166199 < -1.000000)
+2026-02-19 10:46:06,613 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 10:46:06,613 - DEBUG - Processing segment at 52:30.000
+2026-02-19 10:46:07,252 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.358073 < -1.000000)
+2026-02-19 10:46:07,252 - DEBUG - No speech threshold is met (0.966797 > 0.600000)
+2026-02-19 10:46:07,252 - DEBUG - Processing segment at 53:00.000
+2026-02-19 10:46:12,642 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (14.118644 > 2.400000)
+2026-02-19 10:46:12,803 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.184547 < -1.000000)
+2026-02-19 10:46:12,804 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:46:12,804 - DEBUG - Processing segment at 53:30.000
+2026-02-19 10:46:14,673 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:46:14,872 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.814178 < -1.000000)
+2026-02-19 10:46:14,872 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 10:46:14,872 - DEBUG - Processing segment at 54:00.000
+2026-02-19 10:46:16,702 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:46:16,894 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.220520 < -1.000000)
+2026-02-19 10:46:16,895 - DEBUG - No speech threshold is met (0.966797 > 0.600000)
+2026-02-19 10:46:16,895 - DEBUG - Processing segment at 54:30.000
+2026-02-19 10:46:18,753 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:46:18,953 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.214783 < -1.000000)
+2026-02-19 10:46:18,953 - DEBUG - No speech threshold is met (0.978027 > 0.600000)
+2026-02-19 10:46:18,953 - DEBUG - Processing segment at 55:00.000
+2026-02-19 10:46:19,282 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.267578 < -1.000000)
+2026-02-19 10:46:19,282 - DEBUG - No speech threshold is met (0.972656 > 0.600000)
+2026-02-19 10:46:19,282 - DEBUG - Processing segment at 55:30.000
+2026-02-19 10:46:19,533 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.192383 < -1.000000)
+2026-02-19 10:46:19,533 - DEBUG - No speech threshold is met (0.974609 > 0.600000)
+2026-02-19 10:46:19,533 - DEBUG - Processing segment at 56:00.000
+2026-02-19 10:46:19,905 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.211914 < -1.000000)
+2026-02-19 10:46:19,905 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 10:46:19,905 - DEBUG - Processing segment at 56:30.000
+2026-02-19 10:46:21,704 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:46:22,006 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.238182 < -1.000000)
+2026-02-19 10:46:22,006 - DEBUG - No speech threshold is met (0.979980 > 0.600000)
+2026-02-19 10:46:22,006 - DEBUG - Processing segment at 57:00.000
+2026-02-19 10:46:22,527 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.403646 < -1.000000)
+2026-02-19 10:46:22,527 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 10:46:22,527 - DEBUG - Processing segment at 57:30.000
+2026-02-19 10:46:24,326 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 10:46:27,404 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (9.536585 > 2.400000)
+2026-02-19 10:46:27,679 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.193138 < -1.000000)
+2026-02-19 10:46:27,679 - DEBUG - No speech threshold is met (0.969238 > 0.600000)
+2026-02-19 10:46:27,679 - DEBUG - Processing segment at 58:00.000
+2026-02-19 10:46:28,306 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.384115 < -1.000000)
+2026-02-19 10:46:28,307 - DEBUG - No speech threshold is met (0.974121 > 0.600000)
+2026-02-19 10:46:28,307 - DEBUG - Processing segment at 58:30.000
+2026-02-19 10:46:28,882 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.382813 < -1.000000)
+2026-02-19 10:46:28,882 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 10:46:28,882 - DEBUG - Processing segment at 59:00.000
+2026-02-19 10:46:29,709 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.223633 < -1.000000)
+2026-02-19 10:46:29,709 - DEBUG - No speech threshold is met (0.968262 > 0.600000)
+2026-02-19 10:46:29,714 - DEBUG - Processing segment at 59:30.000
+2026-02-19 10:46:30,188 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.182617 < -1.000000)
+2026-02-19 10:46:30,188 - DEBUG - No speech threshold is met (0.742676 > 0.600000)
+2026-02-19 18:56:48,715 - INFO - 主进程开始运行
+2026-02-19 18:57:07,930 - INFO - Processing audio with duration 50:13.045
+2026-02-19 18:57:18,893 - INFO - Detected language 'en' with probability 0.50
+2026-02-19 18:57:19,063 - DEBUG - Processing segment at 00:00.000
+2026-02-19 18:57:19,443 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.195312 < -1.000000)
+2026-02-19 18:57:19,443 - DEBUG - No speech threshold is met (0.639648 > 0.600000)
+2026-02-19 18:57:19,443 - DEBUG - Processing segment at 00:30.000
+2026-02-19 18:57:19,705 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 18:57:19,706 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:57:19,706 - DEBUG - Processing segment at 01:00.000
+2026-02-19 18:57:19,973 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.103516 < -1.000000)
+2026-02-19 18:57:19,973 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:19,974 - DEBUG - Processing segment at 01:30.000
+2026-02-19 18:57:20,255 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125000 < -1.000000)
+2026-02-19 18:57:20,255 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:20,255 - DEBUG - Processing segment at 02:00.000
+2026-02-19 18:57:20,519 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.156250 < -1.000000)
+2026-02-19 18:57:20,520 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:20,520 - DEBUG - Processing segment at 02:30.000
+2026-02-19 18:57:20,974 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 18:57:20,974 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:20,974 - DEBUG - Processing segment at 03:00.000
+2026-02-19 18:57:21,254 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 18:57:21,254 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 18:57:21,254 - DEBUG - Processing segment at 03:30.000
+2026-02-19 18:57:21,530 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 18:57:21,530 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:21,531 - DEBUG - Processing segment at 04:00.000
+2026-02-19 18:57:21,828 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.111328 < -1.000000)
+2026-02-19 18:57:21,828 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:21,828 - DEBUG - Processing segment at 04:30.000
+2026-02-19 18:57:22,208 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.128906 < -1.000000)
+2026-02-19 18:57:22,209 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 18:57:22,209 - DEBUG - Processing segment at 05:00.000
+2026-02-19 18:57:22,658 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 18:57:22,658 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:22,659 - DEBUG - Processing segment at 05:30.000
+2026-02-19 18:57:22,943 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.148438 < -1.000000)
+2026-02-19 18:57:22,943 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:22,943 - DEBUG - Processing segment at 06:00.000
+2026-02-19 18:57:23,350 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.074219 < -1.000000)
+2026-02-19 18:57:23,351 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:23,351 - DEBUG - Processing segment at 06:30.000
+2026-02-19 18:57:23,583 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.159180 < -1.000000)
+2026-02-19 18:57:23,583 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:23,583 - DEBUG - Processing segment at 07:00.000
+2026-02-19 18:57:23,826 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.121094 < -1.000000)
+2026-02-19 18:57:23,827 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:23,827 - DEBUG - Processing segment at 07:30.000
+2026-02-19 18:57:24,274 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:24,275 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:24,275 - DEBUG - Processing segment at 08:00.000
+2026-02-19 18:57:24,498 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.137695 < -1.000000)
+2026-02-19 18:57:24,499 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:24,499 - DEBUG - Processing segment at 08:30.000
+2026-02-19 18:57:24,721 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 18:57:24,721 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:24,721 - DEBUG - Processing segment at 09:00.000
+2026-02-19 18:57:25,219 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 18:57:25,219 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:25,219 - DEBUG - Processing segment at 09:30.000
+2026-02-19 18:57:25,433 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.143555 < -1.000000)
+2026-02-19 18:57:25,434 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:25,434 - DEBUG - Processing segment at 10:00.000
+2026-02-19 18:57:25,707 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 18:57:25,708 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:25,708 - DEBUG - Processing segment at 10:30.000
+2026-02-19 18:57:25,935 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:25,936 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:25,936 - DEBUG - Processing segment at 11:00.000
+2026-02-19 18:57:26,168 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.131836 < -1.000000)
+2026-02-19 18:57:26,168 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:26,168 - DEBUG - Processing segment at 11:30.000
+2026-02-19 18:57:26,580 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:26,580 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:26,581 - DEBUG - Processing segment at 12:00.000
+2026-02-19 18:57:26,867 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 18:57:26,867 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 18:57:26,867 - DEBUG - Processing segment at 12:30.000
+2026-02-19 18:57:27,316 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.075195 < -1.000000)
+2026-02-19 18:57:27,316 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:27,316 - DEBUG - Processing segment at 13:00.000
+2026-02-19 18:57:27,551 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.134766 < -1.000000)
+2026-02-19 18:57:27,551 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:27,552 - DEBUG - Processing segment at 13:30.000
+2026-02-19 18:57:27,832 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 18:57:27,832 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:27,833 - DEBUG - Processing segment at 14:00.000
+2026-02-19 18:57:28,121 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.123047 < -1.000000)
+2026-02-19 18:57:28,122 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:28,122 - DEBUG - Processing segment at 14:30.000
+2026-02-19 18:57:28,400 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.118164 < -1.000000)
+2026-02-19 18:57:28,400 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:28,401 - DEBUG - Processing segment at 15:00.000
+2026-02-19 18:57:28,680 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 18:57:28,681 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:28,681 - DEBUG - Processing segment at 15:30.000
+2026-02-19 18:57:29,167 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 18:57:29,167 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:29,167 - DEBUG - Processing segment at 16:00.000
+2026-02-19 18:57:29,437 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.156250 < -1.000000)
+2026-02-19 18:57:29,438 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 18:57:29,438 - DEBUG - Processing segment at 16:30.000
+2026-02-19 18:57:29,685 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083984 < -1.000000)
+2026-02-19 18:57:29,685 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:29,686 - DEBUG - Processing segment at 17:00.000
+2026-02-19 18:57:30,212 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.141602 < -1.000000)
+2026-02-19 18:57:30,212 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:30,213 - DEBUG - Processing segment at 17:30.000
+2026-02-19 18:57:30,607 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 18:57:30,607 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:30,607 - DEBUG - Processing segment at 18:00.000
+2026-02-19 18:57:31,102 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.110352 < -1.000000)
+2026-02-19 18:57:31,102 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 18:57:31,102 - DEBUG - Processing segment at 18:30.000
+2026-02-19 18:57:31,347 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 18:57:31,347 - DEBUG - No speech threshold is met (0.973145 > 0.600000)
+2026-02-19 18:57:31,348 - DEBUG - Processing segment at 19:00.000
+2026-02-19 18:57:31,617 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 18:57:31,618 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:31,618 - DEBUG - Processing segment at 19:30.000
+2026-02-19 18:57:31,884 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.130859 < -1.000000)
+2026-02-19 18:57:31,884 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:31,885 - DEBUG - Processing segment at 20:00.000
+2026-02-19 18:57:32,264 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 18:57:32,264 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:32,265 - DEBUG - Processing segment at 20:30.000
+2026-02-19 18:57:32,520 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.119141 < -1.000000)
+2026-02-19 18:57:32,520 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:32,520 - DEBUG - Processing segment at 21:00.000
+2026-02-19 18:57:32,784 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:32,784 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:32,785 - DEBUG - Processing segment at 21:30.000
+2026-02-19 18:57:33,090 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.136719 < -1.000000)
+2026-02-19 18:57:33,091 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:57:33,091 - DEBUG - Processing segment at 22:00.000
+2026-02-19 18:57:33,564 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 18:57:33,565 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:33,565 - DEBUG - Processing segment at 22:30.000
+2026-02-19 18:57:33,848 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:33,849 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 18:57:33,849 - DEBUG - Processing segment at 23:00.000
+2026-02-19 18:57:34,138 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 18:57:34,139 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:34,139 - DEBUG - Processing segment at 23:30.000
+2026-02-19 18:57:34,555 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 18:57:34,555 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:34,555 - DEBUG - Processing segment at 24:00.000
+2026-02-19 18:57:34,820 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 18:57:34,820 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:34,820 - DEBUG - Processing segment at 24:30.000
+2026-02-19 18:57:35,093 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.126953 < -1.000000)
+2026-02-19 18:57:35,093 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:35,094 - DEBUG - Processing segment at 25:00.000
+2026-02-19 18:57:35,346 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 18:57:35,346 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:35,346 - DEBUG - Processing segment at 25:30.000
+2026-02-19 18:57:35,819 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.106445 < -1.000000)
+2026-02-19 18:57:35,820 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:35,820 - DEBUG - Processing segment at 26:00.000
+2026-02-19 18:57:36,109 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.138672 < -1.000000)
+2026-02-19 18:57:36,109 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:36,110 - DEBUG - Processing segment at 26:30.000
+2026-02-19 18:57:36,535 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.112305 < -1.000000)
+2026-02-19 18:57:36,535 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:36,535 - DEBUG - Processing segment at 27:00.000
+2026-02-19 18:57:36,840 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.160156 < -1.000000)
+2026-02-19 18:57:36,841 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 18:57:36,841 - DEBUG - Processing segment at 27:30.000
+2026-02-19 18:57:37,256 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 18:57:37,256 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:37,256 - DEBUG - Processing segment at 28:00.000
+2026-02-19 18:57:37,526 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 18:57:37,527 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:57:37,527 - DEBUG - Processing segment at 28:30.000
+2026-02-19 18:57:37,947 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.079102 < -1.000000)
+2026-02-19 18:57:37,947 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:37,948 - DEBUG - Processing segment at 29:00.000
+2026-02-19 18:57:38,211 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.164063 < -1.000000)
+2026-02-19 18:57:38,212 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 18:57:38,212 - DEBUG - Processing segment at 29:30.000
+2026-02-19 18:57:38,474 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 18:57:38,474 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:38,474 - DEBUG - Processing segment at 30:00.000
+2026-02-19 18:57:38,731 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 18:57:38,731 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:38,732 - DEBUG - Processing segment at 30:30.000
+2026-02-19 18:57:38,991 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 18:57:38,992 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:38,992 - DEBUG - Processing segment at 31:00.000
+2026-02-19 18:57:39,232 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.149414 < -1.000000)
+2026-02-19 18:57:39,232 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:39,232 - DEBUG - Processing segment at 31:30.000
+2026-02-19 18:57:39,500 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.140625 < -1.000000)
+2026-02-19 18:57:39,500 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:39,500 - DEBUG - Processing segment at 32:00.000
+2026-02-19 18:57:39,770 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 18:57:39,771 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:39,771 - DEBUG - Processing segment at 32:30.000
+2026-02-19 18:57:40,010 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.119141 < -1.000000)
+2026-02-19 18:57:40,010 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 18:57:40,010 - DEBUG - Processing segment at 33:00.000
+2026-02-19 18:57:40,493 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 18:57:40,493 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:40,493 - DEBUG - Processing segment at 33:30.000
+2026-02-19 18:57:40,773 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.157227 < -1.000000)
+2026-02-19 18:57:40,773 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 18:57:40,774 - DEBUG - Processing segment at 34:00.000
+2026-02-19 18:57:41,018 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.128906 < -1.000000)
+2026-02-19 18:57:41,018 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:41,018 - DEBUG - Processing segment at 34:30.000
+2026-02-19 18:57:41,546 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.242839 < -1.000000)
+2026-02-19 18:57:41,546 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:41,547 - DEBUG - Processing segment at 35:00.000
+2026-02-19 18:57:42,019 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.054688 < -1.000000)
+2026-02-19 18:57:42,019 - DEBUG - No speech threshold is met (0.976074 > 0.600000)
+2026-02-19 18:57:42,019 - DEBUG - Processing segment at 35:30.000
+2026-02-19 18:57:42,292 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.150391 < -1.000000)
+2026-02-19 18:57:42,292 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 18:57:42,292 - DEBUG - Processing segment at 36:00.000
+2026-02-19 18:57:42,570 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.087891 < -1.000000)
+2026-02-19 18:57:42,570 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:42,570 - DEBUG - Processing segment at 36:30.000
+2026-02-19 18:57:42,955 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 18:57:42,955 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:42,956 - DEBUG - Processing segment at 37:00.000
+2026-02-19 18:57:43,220 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.092773 < -1.000000)
+2026-02-19 18:57:43,220 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 18:57:43,221 - DEBUG - Processing segment at 37:30.000
+2026-02-19 18:57:43,484 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.130859 < -1.000000)
+2026-02-19 18:57:43,485 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:43,485 - DEBUG - Processing segment at 38:00.000
+2026-02-19 18:57:43,749 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125977 < -1.000000)
+2026-02-19 18:57:43,749 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:43,749 - DEBUG - Processing segment at 38:30.000
+2026-02-19 18:57:44,147 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 18:57:44,148 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:44,148 - DEBUG - Processing segment at 39:00.000
+2026-02-19 18:57:44,391 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 18:57:44,392 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:57:44,392 - DEBUG - Processing segment at 39:30.000
+2026-02-19 18:57:44,662 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.107422 < -1.000000)
+2026-02-19 18:57:44,662 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:44,662 - DEBUG - Processing segment at 40:00.000
+2026-02-19 18:57:44,940 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.152344 < -1.000000)
+2026-02-19 18:57:44,940 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:44,941 - DEBUG - Processing segment at 40:30.000
+2026-02-19 18:57:45,188 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.134766 < -1.000000)
+2026-02-19 18:57:45,188 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:45,188 - DEBUG - Processing segment at 41:00.000
+2026-02-19 18:57:45,429 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.170898 < -1.000000)
+2026-02-19 18:57:45,430 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:45,430 - DEBUG - Processing segment at 41:30.000
+2026-02-19 18:57:45,903 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.056641 < -1.000000)
+2026-02-19 18:57:45,903 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 18:57:45,904 - DEBUG - Processing segment at 42:00.000
+2026-02-19 18:57:46,149 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.179687 < -1.000000)
+2026-02-19 18:57:46,149 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 18:57:46,150 - DEBUG - Processing segment at 42:30.000
+2026-02-19 18:57:46,427 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.101562 < -1.000000)
+2026-02-19 18:57:46,428 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:46,428 - DEBUG - Processing segment at 43:00.000
+2026-02-19 18:57:46,691 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 18:57:46,692 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:46,692 - DEBUG - Processing segment at 43:30.000
+2026-02-19 18:57:47,057 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 18:57:47,058 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 18:57:47,058 - DEBUG - Processing segment at 44:00.000
+2026-02-19 18:57:47,340 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 18:57:47,340 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:47,340 - DEBUG - Processing segment at 44:30.000
+2026-02-19 18:57:47,611 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 18:57:47,612 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:47,612 - DEBUG - Processing segment at 45:00.000
+2026-02-19 18:57:47,853 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 18:57:47,853 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 18:57:47,853 - DEBUG - Processing segment at 45:30.000
+2026-02-19 18:57:48,100 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 18:57:48,100 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 18:57:48,100 - DEBUG - Processing segment at 46:00.000
+2026-02-19 18:57:48,342 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 18:57:48,343 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 18:57:48,343 - DEBUG - Processing segment at 46:30.000
+2026-02-19 18:57:48,585 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.144531 < -1.000000)
+2026-02-19 18:57:48,586 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:48,586 - DEBUG - Processing segment at 47:00.000
+2026-02-19 18:57:48,854 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.116211 < -1.000000)
+2026-02-19 18:57:48,855 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 18:57:48,855 - DEBUG - Processing segment at 47:30.000
+2026-02-19 18:57:49,130 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.164063 < -1.000000)
+2026-02-19 18:57:49,130 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 18:57:49,130 - DEBUG - Processing segment at 48:00.000
+2026-02-19 18:57:49,545 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.061523 < -1.000000)
+2026-02-19 18:57:49,545 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 18:57:49,545 - DEBUG - Processing segment at 48:30.000
+2026-02-19 18:57:49,800 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.183594 < -1.000000)
+2026-02-19 18:57:49,800 - DEBUG - No speech threshold is met (0.961914 > 0.600000)
+2026-02-19 18:57:49,800 - DEBUG - Processing segment at 49:00.000
+2026-02-19 18:57:50,079 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 18:57:50,079 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 18:57:50,079 - DEBUG - Processing segment at 49:30.000
+2026-02-19 18:57:50,312 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.129883 < -1.000000)
+2026-02-19 18:57:50,312 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 18:57:50,318 - DEBUG - Processing segment at 50:00.000
+2026-02-19 18:57:50,709 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.031250 < -1.000000)
+2026-02-19 18:57:50,710 - DEBUG - No speech threshold is met (0.821289 > 0.600000)
+2026-02-19 18:58:01,637 - INFO - Processing audio with duration 30:26.901
+2026-02-19 18:58:06,352 - INFO - Detected language 'en' with probability 0.53
+2026-02-19 18:58:06,417 - DEBUG - Processing segment at 00:00.000
+2026-02-19 18:58:06,707 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.221680 < -1.000000)
+2026-02-19 18:58:06,707 - DEBUG - No speech threshold is met (0.620117 > 0.600000)
+2026-02-19 18:58:06,707 - DEBUG - Processing segment at 00:30.000
+2026-02-19 18:58:06,972 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.113281 < -1.000000)
+2026-02-19 18:58:06,972 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:06,973 - DEBUG - Processing segment at 01:00.000
+2026-02-19 18:58:07,200 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.058594 < -1.000000)
+2026-02-19 18:58:07,200 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 18:58:07,201 - DEBUG - Processing segment at 01:30.000
+2026-02-19 18:58:07,474 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.093750 < -1.000000)
+2026-02-19 18:58:07,474 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 18:58:07,474 - DEBUG - Processing segment at 02:00.000
+2026-02-19 18:58:07,695 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.116211 < -1.000000)
+2026-02-19 18:58:07,695 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:07,695 - DEBUG - Processing segment at 02:30.000
+2026-02-19 18:58:07,937 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.129883 < -1.000000)
+2026-02-19 18:58:07,938 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 18:58:07,938 - DEBUG - Processing segment at 03:00.000
+2026-02-19 18:58:08,181 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 18:58:08,181 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:08,181 - DEBUG - Processing segment at 03:30.000
+2026-02-19 18:58:08,410 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 18:58:08,410 - DEBUG - No speech threshold is met (0.994629 > 0.600000)
+2026-02-19 18:58:08,410 - DEBUG - Processing segment at 04:00.000
+2026-02-19 18:58:08,670 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.070313 < -1.000000)
+2026-02-19 18:58:08,671 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:08,671 - DEBUG - Processing segment at 04:30.000
+2026-02-19 18:58:08,937 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.062500 < -1.000000)
+2026-02-19 18:58:08,938 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:08,938 - DEBUG - Processing segment at 05:00.000
+2026-02-19 18:58:09,178 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 18:58:09,178 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 18:58:09,179 - DEBUG - Processing segment at 05:30.000
+2026-02-19 18:58:09,428 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.060547 < -1.000000)
+2026-02-19 18:58:09,429 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:09,429 - DEBUG - Processing segment at 06:00.000
+2026-02-19 18:58:09,675 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 18:58:09,675 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 18:58:09,675 - DEBUG - Processing segment at 06:30.000
+2026-02-19 18:58:09,931 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.083008 < -1.000000)
+2026-02-19 18:58:09,931 - DEBUG - No speech threshold is met (0.990234 > 0.600000)
+2026-02-19 18:58:09,931 - DEBUG - Processing segment at 07:00.000
+2026-02-19 18:58:10,200 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.058594 < -1.000000)
+2026-02-19 18:58:10,201 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:10,201 - DEBUG - Processing segment at 07:30.000
+2026-02-19 18:58:10,465 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.065430 < -1.000000)
+2026-02-19 18:58:10,465 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:10,465 - DEBUG - Processing segment at 08:00.000
+2026-02-19 18:58:10,737 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.065430 < -1.000000)
+2026-02-19 18:58:10,738 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:10,738 - DEBUG - Processing segment at 08:30.000
+2026-02-19 18:58:11,004 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 18:58:11,005 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 18:58:11,005 - DEBUG - Processing segment at 09:00.000
+2026-02-19 18:58:11,278 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 18:58:11,278 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:58:11,279 - DEBUG - Processing segment at 09:30.000
+2026-02-19 18:58:11,547 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 18:58:11,547 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:11,547 - DEBUG - Processing segment at 10:00.000
+2026-02-19 18:58:11,822 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.124023 < -1.000000)
+2026-02-19 18:58:11,822 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 18:58:11,823 - DEBUG - Processing segment at 10:30.000
+2026-02-19 18:58:12,088 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.151367 < -1.000000)
+2026-02-19 18:58:12,089 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 18:58:12,089 - DEBUG - Processing segment at 11:00.000
+2026-02-19 18:58:12,353 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.041992 < -1.000000)
+2026-02-19 18:58:12,353 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:12,353 - DEBUG - Processing segment at 11:30.000
+2026-02-19 18:58:12,624 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.026367 < -1.000000)
+2026-02-19 18:58:12,625 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:12,625 - DEBUG - Processing segment at 12:00.000
+2026-02-19 18:58:12,897 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.077148 < -1.000000)
+2026-02-19 18:58:12,897 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:12,897 - DEBUG - Processing segment at 12:30.000
+2026-02-19 18:58:13,144 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.144531 < -1.000000)
+2026-02-19 18:58:13,144 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:13,144 - DEBUG - Processing segment at 13:00.000
+2026-02-19 18:58:13,430 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.078125 < -1.000000)
+2026-02-19 18:58:13,430 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 18:58:13,430 - DEBUG - Processing segment at 13:30.000
+2026-02-19 18:58:13,669 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.070313 < -1.000000)
+2026-02-19 18:58:13,669 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:13,669 - DEBUG - Processing segment at 14:00.000
+2026-02-19 18:58:13,939 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.049805 < -1.000000)
+2026-02-19 18:58:13,939 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:13,939 - DEBUG - Processing segment at 14:30.000
+2026-02-19 18:58:14,184 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 18:58:14,185 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 18:58:14,185 - DEBUG - Processing segment at 15:00.000
+2026-02-19 18:58:14,448 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.054688 < -1.000000)
+2026-02-19 18:58:14,448 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:14,448 - DEBUG - Processing segment at 15:30.000
+2026-02-19 18:58:14,701 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.100586 < -1.000000)
+2026-02-19 18:58:14,701 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:14,701 - DEBUG - Processing segment at 16:00.000
+2026-02-19 18:58:14,945 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.041992 < -1.000000)
+2026-02-19 18:58:14,946 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:14,946 - DEBUG - Processing segment at 16:30.000
+2026-02-19 18:58:15,216 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.112305 < -1.000000)
+2026-02-19 18:58:15,216 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:15,216 - DEBUG - Processing segment at 17:00.000
+2026-02-19 18:58:15,484 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.068359 < -1.000000)
+2026-02-19 18:58:15,484 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:15,484 - DEBUG - Processing segment at 17:30.000
+2026-02-19 18:58:15,701 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 18:58:15,701 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:15,701 - DEBUG - Processing segment at 18:00.000
+2026-02-19 18:58:15,932 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.076172 < -1.000000)
+2026-02-19 18:58:15,932 - DEBUG - No speech threshold is met (0.991699 > 0.600000)
+2026-02-19 18:58:15,933 - DEBUG - Processing segment at 18:30.000
+2026-02-19 18:58:16,190 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 18:58:16,192 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 18:58:16,192 - DEBUG - Processing segment at 19:00.000
+2026-02-19 18:58:16,467 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.079102 < -1.000000)
+2026-02-19 18:58:16,468 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 18:58:16,468 - DEBUG - Processing segment at 19:30.000
+2026-02-19 18:58:16,718 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 18:58:16,718 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 18:58:16,718 - DEBUG - Processing segment at 20:00.000
+2026-02-19 18:58:16,951 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 18:58:16,952 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 18:58:16,952 - DEBUG - Processing segment at 20:30.000
+2026-02-19 18:58:17,223 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.091797 < -1.000000)
+2026-02-19 18:58:17,223 - DEBUG - No speech threshold is met (0.990234 > 0.600000)
+2026-02-19 18:58:17,224 - DEBUG - Processing segment at 21:00.000
+2026-02-19 18:58:17,492 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.053711 < -1.000000)
+2026-02-19 18:58:17,492 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:17,493 - DEBUG - Processing segment at 21:30.000
+2026-02-19 18:58:17,731 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 18:58:17,732 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:17,732 - DEBUG - Processing segment at 22:00.000
+2026-02-19 18:58:17,979 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.114258 < -1.000000)
+2026-02-19 18:58:17,979 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 18:58:17,980 - DEBUG - Processing segment at 22:30.000
+2026-02-19 18:58:18,221 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.126953 < -1.000000)
+2026-02-19 18:58:18,221 - DEBUG - No speech threshold is met (0.989258 > 0.600000)
+2026-02-19 18:58:18,221 - DEBUG - Processing segment at 23:00.000
+2026-02-19 18:58:18,447 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 18:58:18,448 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:18,448 - DEBUG - Processing segment at 23:30.000
+2026-02-19 18:58:18,680 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.102539 < -1.000000)
+2026-02-19 18:58:18,680 - DEBUG - No speech threshold is met (0.993164 > 0.600000)
+2026-02-19 18:58:18,680 - DEBUG - Processing segment at 24:00.000
+2026-02-19 18:58:18,867 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.090820 < -1.000000)
+2026-02-19 18:58:18,867 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 18:58:18,867 - DEBUG - Processing segment at 24:30.000
+2026-02-19 18:58:19,095 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.109375 < -1.000000)
+2026-02-19 18:58:19,095 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:19,095 - DEBUG - Processing segment at 25:00.000
+2026-02-19 18:58:19,344 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.084961 < -1.000000)
+2026-02-19 18:58:19,345 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 18:58:19,345 - DEBUG - Processing segment at 25:30.000
+2026-02-19 18:58:19,617 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.118164 < -1.000000)
+2026-02-19 18:58:19,617 - DEBUG - No speech threshold is met (0.992188 > 0.600000)
+2026-02-19 18:58:19,617 - DEBUG - Processing segment at 26:00.000
+2026-02-19 18:58:19,864 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.075195 < -1.000000)
+2026-02-19 18:58:19,865 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 18:58:19,865 - DEBUG - Processing segment at 26:30.000
+2026-02-19 18:58:20,131 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.098633 < -1.000000)
+2026-02-19 18:58:20,131 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 18:58:20,131 - DEBUG - Processing segment at 27:00.000
+2026-02-19 18:58:20,350 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.074219 < -1.000000)
+2026-02-19 18:58:20,350 - DEBUG - No speech threshold is met (0.994141 > 0.600000)
+2026-02-19 18:58:20,350 - DEBUG - Processing segment at 27:30.000
+2026-02-19 18:58:20,597 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.081055 < -1.000000)
+2026-02-19 18:58:20,597 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 18:58:20,597 - DEBUG - Processing segment at 28:00.000
+2026-02-19 18:58:20,807 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.066406 < -1.000000)
+2026-02-19 18:58:20,807 - DEBUG - No speech threshold is met (0.993652 > 0.600000)
+2026-02-19 18:58:20,807 - DEBUG - Processing segment at 28:30.000
+2026-02-19 18:58:21,033 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.089844 < -1.000000)
+2026-02-19 18:58:21,033 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:21,034 - DEBUG - Processing segment at 29:00.000
+2026-02-19 18:58:21,323 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.104492 < -1.000000)
+2026-02-19 18:58:21,323 - DEBUG - No speech threshold is met (0.992676 > 0.600000)
+2026-02-19 18:58:21,323 - DEBUG - Processing segment at 29:30.000
+2026-02-19 18:58:21,569 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.072266 < -1.000000)
+2026-02-19 18:58:21,569 - DEBUG - No speech threshold is met (0.991211 > 0.600000)
+2026-02-19 18:58:21,572 - DEBUG - Processing segment at 30:00.000
+2026-02-19 18:58:40,354 - INFO - Processing audio with duration 41:59.365
+2026-02-19 18:58:48,051 - INFO - Detected language 'zh' with probability 1.00
+2026-02-19 18:58:48,237 - DEBUG - Processing segment at 00:00.000
+2026-02-19 18:58:53,618 - DEBUG - Processing segment at 00:29.800
+2026-02-19 18:58:59,044 - DEBUG - Processing segment at 00:59.400
+2026-02-19 18:59:03,890 - DEBUG - Processing segment at 01:27.600
+2026-02-19 18:59:08,669 - DEBUG - Processing segment at 01:56.400
+2026-02-19 18:59:13,621 - DEBUG - Processing segment at 02:25.000
+2026-02-19 18:59:18,158 - DEBUG - Processing segment at 02:52.000
+2026-02-19 18:59:23,103 - DEBUG - Processing segment at 03:21.000
+2026-02-19 18:59:28,097 - DEBUG - Processing segment at 03:48.000
+2026-02-19 18:59:33,075 - DEBUG - Processing segment at 04:16.000
+2026-02-19 18:59:37,670 - DEBUG - Processing segment at 04:42.000
+2026-02-19 18:59:42,897 - DEBUG - Processing segment at 05:10.000
+2026-02-19 18:59:47,744 - DEBUG - Processing segment at 05:38.000
+2026-02-19 18:59:52,294 - DEBUG - Processing segment at 06:06.000
+2026-02-19 18:59:56,278 - DEBUG - Processing segment at 06:34.000
+2026-02-19 18:59:59,906 - DEBUG - Processing segment at 07:02.000
+2026-02-19 19:00:04,429 - DEBUG - Processing segment at 07:31.000
+2026-02-19 19:00:09,083 - DEBUG - Processing segment at 07:59.000
+2026-02-19 19:00:13,794 - DEBUG - Processing segment at 08:27.000
+2026-02-19 19:00:18,956 - DEBUG - Processing segment at 08:56.000
+2026-02-19 19:00:23,770 - DEBUG - Processing segment at 09:25.000
+2026-02-19 19:00:29,064 - DEBUG - Processing segment at 09:54.000
+2026-02-19 19:00:34,660 - DEBUG - Processing segment at 10:23.000
+2026-02-19 19:00:39,876 - DEBUG - Processing segment at 10:51.000
+2026-02-19 19:00:45,143 - DEBUG - Processing segment at 11:20.000
+2026-02-19 19:00:50,444 - DEBUG - Processing segment at 11:49.000
+2026-02-19 19:00:55,730 - DEBUG - Processing segment at 12:18.000
+2026-02-19 19:01:01,239 - DEBUG - Processing segment at 12:46.000
+2026-02-19 19:01:05,866 - DEBUG - Processing segment at 13:14.000
+2026-02-19 19:01:10,772 - DEBUG - Processing segment at 13:43.000
+2026-02-19 19:01:16,036 - DEBUG - Processing segment at 14:11.000
+2026-02-19 19:01:20,420 - DEBUG - Processing segment at 14:38.000
+2026-02-19 19:01:25,225 - DEBUG - Processing segment at 15:05.000
+2026-02-19 19:01:29,780 - DEBUG - Processing segment at 15:33.000
+2026-02-19 19:01:35,944 - DEBUG - Processing segment at 16:01.000
+2026-02-19 19:01:41,851 - DEBUG - Processing segment at 16:29.000
+2026-02-19 19:01:47,043 - DEBUG - Processing segment at 16:58.000
+2026-02-19 19:01:52,480 - DEBUG - Processing segment at 17:27.000
+2026-02-19 19:01:57,694 - DEBUG - Processing segment at 17:55.000
+2026-02-19 19:02:02,964 - DEBUG - Processing segment at 18:23.000
+2026-02-19 19:02:08,423 - DEBUG - Processing segment at 18:51.000
+2026-02-19 19:02:13,493 - DEBUG - Processing segment at 19:18.000
+2026-02-19 19:02:18,367 - DEBUG - Processing segment at 19:47.000
+2026-02-19 19:02:23,601 - DEBUG - Processing segment at 20:14.000
+2026-02-19 19:02:28,569 - DEBUG - Processing segment at 20:43.000
+2026-02-19 19:02:33,400 - DEBUG - Processing segment at 21:12.000
+2026-02-19 19:02:38,525 - DEBUG - Processing segment at 21:41.000
+2026-02-19 19:02:43,742 - DEBUG - Processing segment at 22:10.000
+2026-02-19 19:02:49,562 - DEBUG - Processing segment at 22:38.000
+2026-02-19 19:02:55,657 - DEBUG - Processing segment at 23:07.000
+2026-02-19 19:03:01,514 - DEBUG - Processing segment at 23:35.000
+2026-02-19 19:03:07,319 - DEBUG - Processing segment at 24:04.000
+2026-02-19 19:03:12,878 - DEBUG - Processing segment at 24:33.000
+2026-02-19 19:03:17,433 - DEBUG - Processing segment at 25:01.000
+2026-02-19 19:03:22,579 - DEBUG - Processing segment at 25:30.000
+2026-02-19 19:03:28,021 - DEBUG - Processing segment at 25:59.000
+2026-02-19 19:03:33,512 - DEBUG - Processing segment at 26:28.000
+2026-02-19 19:03:39,016 - DEBUG - Processing segment at 26:57.000
+2026-02-19 19:03:45,226 - DEBUG - Processing segment at 27:26.000
+2026-02-19 19:03:51,387 - DEBUG - Processing segment at 27:54.000
+2026-02-19 19:03:57,321 - DEBUG - Processing segment at 28:23.000
+2026-02-19 19:04:02,941 - DEBUG - Processing segment at 28:51.000
+2026-02-19 19:04:08,959 - DEBUG - Processing segment at 29:20.000
+2026-02-19 19:04:15,266 - DEBUG - Processing segment at 29:49.000
+2026-02-19 19:04:20,380 - DEBUG - Processing segment at 30:17.000
+2026-02-19 19:04:25,813 - DEBUG - Processing segment at 30:45.000
+2026-02-19 19:04:31,258 - DEBUG - Processing segment at 31:14.000
+2026-02-19 19:04:37,426 - DEBUG - Processing segment at 31:43.000
+2026-02-19 19:04:43,166 - DEBUG - Processing segment at 32:11.000
+2026-02-19 19:04:49,036 - DEBUG - Processing segment at 32:40.000
+2026-02-19 19:04:54,153 - DEBUG - Processing segment at 33:09.000
+2026-02-19 19:04:59,140 - DEBUG - Processing segment at 33:37.000
+2026-02-19 19:05:04,703 - DEBUG - Processing segment at 34:06.000
+2026-02-19 19:05:10,638 - DEBUG - Processing segment at 34:34.000
+2026-02-19 19:05:15,428 - DEBUG - Processing segment at 35:02.000
+2026-02-19 19:05:20,311 - DEBUG - Processing segment at 35:31.000
+2026-02-19 19:05:25,341 - DEBUG - Processing segment at 35:59.000
+2026-02-19 19:05:30,116 - DEBUG - Processing segment at 36:27.000
+2026-02-19 19:05:35,082 - DEBUG - Processing segment at 36:56.000
+2026-02-19 19:05:39,643 - DEBUG - Processing segment at 37:24.000
+2026-02-19 19:05:44,147 - DEBUG - Processing segment at 37:52.000
+2026-02-19 19:05:48,273 - DEBUG - Processing segment at 38:20.000
+2026-02-19 19:05:52,633 - DEBUG - Processing segment at 38:48.000
+2026-02-19 19:05:57,286 - DEBUG - Processing segment at 39:17.000
+2026-02-19 19:06:02,738 - DEBUG - Processing segment at 39:46.000
+2026-02-19 19:06:07,734 - DEBUG - Processing segment at 40:15.000
+2026-02-19 19:06:12,424 - DEBUG - Processing segment at 40:44.000
+2026-02-19 19:06:17,126 - DEBUG - Processing segment at 41:12.000
+2026-02-19 19:06:21,514 - DEBUG - Processing segment at 41:41.000
+2026-02-19 19:07:31,211 - INFO - Processing audio with duration 39:44.085
+2026-02-19 19:07:37,063 - INFO - Detected language 'zh' with probability 1.00
+2026-02-19 19:07:37,175 - DEBUG - Processing segment at 00:00.000
+2026-02-19 19:07:42,260 - DEBUG - Processing segment at 00:28.200
+2026-02-19 19:07:47,258 - DEBUG - Processing segment at 00:53.800
+2026-02-19 19:07:52,796 - DEBUG - Processing segment at 01:23.500
+2026-02-19 19:07:58,064 - DEBUG - Processing segment at 01:51.300
+2026-02-19 19:08:03,382 - DEBUG - Processing segment at 02:16.900
+2026-02-19 19:08:06,426 - DEBUG - Processing segment at 02:42.000
+2026-02-19 19:08:12,039 - DEBUG - Processing segment at 03:10.000
+2026-02-19 19:08:17,412 - DEBUG - Processing segment at 03:36.100
+2026-02-19 19:08:23,466 - DEBUG - Processing segment at 04:03.500
+2026-02-19 19:08:29,241 - DEBUG - Processing segment at 04:32.100
+2026-02-19 19:08:35,339 - DEBUG - Processing segment at 05:00.500
+2026-02-19 19:08:41,592 - DEBUG - Processing segment at 05:28.000
+2026-02-19 19:08:47,398 - DEBUG - Processing segment at 05:55.400
+2026-02-19 19:08:54,019 - DEBUG - Processing segment at 06:24.500
+2026-02-19 19:09:00,171 - DEBUG - Processing segment at 06:51.400
+2026-02-19 19:09:06,180 - DEBUG - Processing segment at 07:21.200
+2026-02-19 19:09:11,666 - DEBUG - Processing segment at 07:48.900
+2026-02-19 19:09:18,101 - DEBUG - Processing segment at 08:16.400
+2026-02-19 19:09:24,646 - DEBUG - Processing segment at 08:45.100
+2026-02-19 19:09:30,593 - DEBUG - Processing segment at 09:11.600
+2026-02-19 19:09:35,435 - DEBUG - Processing segment at 09:38.800
+2026-02-19 19:09:39,049 - DEBUG - Processing segment at 10:05.000
+2026-02-19 19:09:43,934 - DEBUG - Processing segment at 10:34.900
+2026-02-19 19:09:46,792 - DEBUG - Processing segment at 11:04.900
+2026-02-19 19:09:51,049 - DEBUG - Processing segment at 11:31.300
+2026-02-19 19:09:55,227 - DEBUG - Processing segment at 12:01.000
+2026-02-19 19:09:58,717 - DEBUG - Processing segment at 12:29.200
+2026-02-19 19:10:03,475 - DEBUG - Processing segment at 12:56.500
+2026-02-19 19:10:08,315 - DEBUG - Processing segment at 13:23.200
+2026-02-19 19:10:14,413 - DEBUG - Processing segment at 13:52.100
+2026-02-19 19:10:20,249 - DEBUG - Processing segment at 14:21.400
+2026-02-19 19:10:26,362 - DEBUG - Processing segment at 14:48.700
+2026-02-19 19:10:32,140 - DEBUG - Processing segment at 15:17.600
+2026-02-19 19:10:37,389 - DEBUG - Processing segment at 15:46.100
+2026-02-19 19:10:43,422 - DEBUG - Processing segment at 16:15.500
+2026-02-19 19:10:50,045 - DEBUG - Processing segment at 16:43.600
+2026-02-19 19:10:56,099 - DEBUG - Processing segment at 17:12.100
+2026-02-19 19:11:01,788 - DEBUG - Processing segment at 17:39.800
+2026-02-19 19:11:07,385 - DEBUG - Processing segment at 18:06.800
+2026-02-19 19:11:09,520 - DEBUG - Processing segment at 18:36.800
+2026-02-19 19:11:14,862 - DEBUG - Processing segment at 19:04.800
+2026-02-19 19:11:18,983 - DEBUG - Processing segment at 19:32.800
+2026-02-19 19:11:24,904 - DEBUG - Processing segment at 20:00.800
+2026-02-19 19:11:30,819 - DEBUG - Processing segment at 20:28.800
+2026-02-19 19:11:36,895 - DEBUG - Processing segment at 20:57.800
+2026-02-19 19:11:42,262 - DEBUG - Processing segment at 21:25.800
+2026-02-19 19:11:48,327 - DEBUG - Processing segment at 21:52.800
+2026-02-19 19:11:54,363 - DEBUG - Processing segment at 22:20.800
+2026-02-19 19:12:01,117 - DEBUG - Processing segment at 22:46.800
+2026-02-19 19:12:07,389 - DEBUG - Processing segment at 23:13.800
+2026-02-19 19:12:13,521 - DEBUG - Processing segment at 23:42.800
+2026-02-19 19:12:19,524 - DEBUG - Processing segment at 24:09.800
+2026-02-19 19:12:25,169 - DEBUG - Processing segment at 24:36.800
+2026-02-19 19:12:30,262 - DEBUG - Processing segment at 25:05.800
+2026-02-19 19:12:35,266 - DEBUG - Processing segment at 25:30.800
+2026-02-19 19:12:40,685 - DEBUG - Processing segment at 25:58.800
+2026-02-19 19:12:46,596 - DEBUG - Processing segment at 26:27.800
+2026-02-19 19:12:52,186 - DEBUG - Processing segment at 26:54.800
+2026-02-19 19:12:58,489 - DEBUG - Processing segment at 27:23.800
+2026-02-19 19:13:04,968 - DEBUG - Processing segment at 27:52.800
+2026-02-19 19:13:10,290 - DEBUG - Processing segment at 28:20.800
+2026-02-19 19:13:15,917 - DEBUG - Processing segment at 28:48.800
+2026-02-19 19:13:20,630 - DEBUG - Processing segment at 29:15.800
+2026-02-19 19:13:26,278 - DEBUG - Processing segment at 29:39.800
+2026-02-19 19:13:32,257 - DEBUG - Processing segment at 30:08.800
+2026-02-19 19:13:37,649 - DEBUG - Processing segment at 30:37.800
+2026-02-19 19:13:43,336 - DEBUG - Processing segment at 31:06.800
+2026-02-19 19:13:49,029 - DEBUG - Processing segment at 31:34.800
+2026-02-19 19:13:54,980 - DEBUG - Processing segment at 32:02.800
+2026-02-19 19:14:00,961 - DEBUG - Processing segment at 32:29.800
+2026-02-19 19:14:06,170 - DEBUG - Processing segment at 32:56.800
+2026-02-19 19:14:11,274 - DEBUG - Processing segment at 33:23.800
+2026-02-19 19:14:17,245 - DEBUG - Processing segment at 33:52.800
+2026-02-19 19:14:22,303 - DEBUG - Processing segment at 34:18.800
+2026-02-19 19:14:28,837 - DEBUG - Processing segment at 34:45.800
+2026-02-19 19:14:34,602 - DEBUG - Processing segment at 35:12.800
+2026-02-19 19:14:40,503 - DEBUG - Processing segment at 35:39.800
+2026-02-19 19:14:46,441 - DEBUG - Processing segment at 36:05.800
+2026-02-19 19:14:52,198 - DEBUG - Processing segment at 36:34.800
+2026-02-19 19:14:57,455 - DEBUG - Processing segment at 37:02.800
+2026-02-19 19:15:02,491 - DEBUG - Processing segment at 37:29.800
+2026-02-19 19:15:08,416 - DEBUG - Processing segment at 37:57.800
+2026-02-19 19:15:12,854 - DEBUG - Processing segment at 38:25.800
+2026-02-19 19:15:17,548 - DEBUG - Processing segment at 38:52.800
+2026-02-19 19:15:23,628 - DEBUG - Processing segment at 39:21.800
+2026-02-19 19:16:55,690 - INFO - Processing audio with duration 40:18.010
+2026-02-19 19:17:03,997 - INFO - Detected language 'en' with probability 0.56
+2026-02-19 19:17:04,066 - DEBUG - Processing segment at 00:00.000
+2026-02-19 19:17:04,342 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.286133 < -1.000000)
+2026-02-19 19:17:04,342 - DEBUG - No speech threshold is met (0.729980 > 0.600000)
+2026-02-19 19:17:04,342 - DEBUG - Processing segment at 00:30.000
+2026-02-19 19:17:06,371 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:06,706 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.251863 < -1.000000)
+2026-02-19 19:17:06,706 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 19:17:06,706 - DEBUG - Processing segment at 01:00.000
+2026-02-19 19:17:08,934 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:09,164 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.718216 < -1.000000)
+2026-02-19 19:17:09,165 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 19:17:09,165 - DEBUG - Processing segment at 01:30.000
+2026-02-19 19:17:11,206 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:11,371 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.148331 < -1.000000)
+2026-02-19 19:17:11,372 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 19:17:11,372 - DEBUG - Processing segment at 02:00.000
+2026-02-19 19:17:13,554 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:17,724 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (10.866667 > 2.400000)
+2026-02-19 19:17:18,130 - DEBUG - Log probability threshold is not met with temperature 0.4 (-1.193771 < -1.000000)
+2026-02-19 19:17:18,130 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 19:17:18,131 - DEBUG - Processing segment at 02:30.000
+2026-02-19 19:17:18,510 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.039062 < -1.000000)
+2026-02-19 19:17:18,511 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 19:17:18,511 - DEBUG - Processing segment at 03:00.000
+2026-02-19 19:17:18,778 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.196289 < -1.000000)
+2026-02-19 19:17:18,778 - DEBUG - No speech threshold is met (0.979980 > 0.600000)
+2026-02-19 19:17:18,778 - DEBUG - Processing segment at 03:30.000
+2026-02-19 19:17:20,786 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:20,994 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.134995 < -1.000000)
+2026-02-19 19:17:20,994 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 19:17:20,994 - DEBUG - Processing segment at 04:00.000
+2026-02-19 19:17:22,970 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:23,175 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.142311 < -1.000000)
+2026-02-19 19:17:23,175 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 19:17:23,175 - DEBUG - Processing segment at 04:30.000
+2026-02-19 19:17:25,233 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:25,557 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.290324 < -1.000000)
+2026-02-19 19:17:25,557 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 19:17:25,557 - DEBUG - Processing segment at 05:00.000
+2026-02-19 19:17:27,572 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:27,945 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.158020 < -1.000000)
+2026-02-19 19:17:27,945 - DEBUG - No speech threshold is met (0.967773 > 0.600000)
+2026-02-19 19:17:27,945 - DEBUG - Processing segment at 05:30.000
+2026-02-19 19:17:29,938 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:30,109 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.839569 < -1.000000)
+2026-02-19 19:17:30,110 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 19:17:30,110 - DEBUG - Processing segment at 06:00.000
+2026-02-19 19:17:32,156 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:32,352 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.135086 < -1.000000)
+2026-02-19 19:17:32,353 - DEBUG - No speech threshold is met (0.988770 > 0.600000)
+2026-02-19 19:17:32,353 - DEBUG - Processing segment at 06:30.000
+2026-02-19 19:17:32,717 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.121094 < -1.000000)
+2026-02-19 19:17:32,717 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 19:17:32,718 - DEBUG - Processing segment at 07:00.000
+2026-02-19 19:17:34,683 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:34,863 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.146027 < -1.000000)
+2026-02-19 19:17:34,863 - DEBUG - No speech threshold is met (0.979980 > 0.600000)
+2026-02-19 19:17:34,863 - DEBUG - Processing segment at 07:30.000
+2026-02-19 19:17:36,917 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:37,268 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.185486 < -1.000000)
+2026-02-19 19:17:37,268 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:17:37,268 - DEBUG - Processing segment at 08:00.000
+2026-02-19 19:17:37,614 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.180664 < -1.000000)
+2026-02-19 19:17:37,615 - DEBUG - No speech threshold is met (0.978027 > 0.600000)
+2026-02-19 19:17:37,615 - DEBUG - Processing segment at 08:30.000
+2026-02-19 19:17:39,416 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:39,730 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.139282 < -1.000000)
+2026-02-19 19:17:39,730 - DEBUG - No speech threshold is met (0.981445 > 0.600000)
+2026-02-19 19:17:39,731 - DEBUG - Processing segment at 09:00.000
+2026-02-19 19:17:41,529 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:41,728 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.202652 < -1.000000)
+2026-02-19 19:17:41,728 - DEBUG - No speech threshold is met (0.981934 > 0.600000)
+2026-02-19 19:17:41,728 - DEBUG - Processing segment at 09:30.000
+2026-02-19 19:17:42,035 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.127930 < -1.000000)
+2026-02-19 19:17:42,035 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 19:17:42,036 - DEBUG - Processing segment at 10:00.000
+2026-02-19 19:17:42,299 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.147461 < -1.000000)
+2026-02-19 19:17:42,300 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 19:17:42,300 - DEBUG - Processing segment at 10:30.000
+2026-02-19 19:17:44,105 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:44,306 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.178299 < -1.000000)
+2026-02-19 19:17:44,306 - DEBUG - No speech threshold is met (0.978516 > 0.600000)
+2026-02-19 19:17:44,306 - DEBUG - Processing segment at 11:00.000
+2026-02-19 19:17:46,173 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:46,357 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.097717 < -1.000000)
+2026-02-19 19:17:46,357 - DEBUG - No speech threshold is met (0.973633 > 0.600000)
+2026-02-19 19:17:46,357 - DEBUG - Processing segment at 11:30.000
+2026-02-19 19:17:48,206 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:48,482 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.273822 < -1.000000)
+2026-02-19 19:17:48,483 - DEBUG - No speech threshold is met (0.976562 > 0.600000)
+2026-02-19 19:17:48,483 - DEBUG - Processing segment at 12:00.000
+2026-02-19 19:17:48,799 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.142578 < -1.000000)
+2026-02-19 19:17:48,799 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 19:17:48,799 - DEBUG - Processing segment at 12:30.000
+2026-02-19 19:17:51,341 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.753425 > 2.400000)
+2026-02-19 19:17:51,538 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.110176 < -1.000000)
+2026-02-19 19:17:51,538 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 19:17:51,539 - DEBUG - Processing segment at 13:00.000
+2026-02-19 19:17:51,870 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.123047 < -1.000000)
+2026-02-19 19:17:51,871 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 19:17:51,871 - DEBUG - Processing segment at 13:30.000
+2026-02-19 19:17:52,146 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.122070 < -1.000000)
+2026-02-19 19:17:52,146 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:17:52,146 - DEBUG - Processing segment at 14:00.000
+2026-02-19 19:17:52,410 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.131836 < -1.000000)
+2026-02-19 19:17:52,410 - DEBUG - No speech threshold is met (0.990723 > 0.600000)
+2026-02-19 19:17:52,410 - DEBUG - Processing segment at 14:30.000
+2026-02-19 19:17:52,911 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.178711 < -1.000000)
+2026-02-19 19:17:52,911 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 19:17:52,912 - DEBUG - Processing segment at 15:00.000
+2026-02-19 19:17:54,766 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:54,963 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.094711 < -1.000000)
+2026-02-19 19:17:54,963 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:17:54,963 - DEBUG - Processing segment at 15:30.000
+2026-02-19 19:17:55,258 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.119141 < -1.000000)
+2026-02-19 19:17:55,258 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 19:17:55,258 - DEBUG - Processing segment at 16:00.000
+2026-02-19 19:17:55,522 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.168945 < -1.000000)
+2026-02-19 19:17:55,523 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 19:17:55,523 - DEBUG - Processing segment at 16:30.000
+2026-02-19 19:17:57,449 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:17:58,532 - DEBUG - Compression ratio threshold is not met with temperature 0.2 (3.666667 > 2.400000)
+2026-02-19 19:18:01,406 - DEBUG - Compression ratio threshold is not met with temperature 0.4 (10.176471 > 2.400000)
+2026-02-19 19:18:01,725 - DEBUG - Log probability threshold is not met with temperature 0.6 (-2.042847 < -1.000000)
+2026-02-19 19:18:01,727 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 19:18:01,727 - DEBUG - Processing segment at 17:00.000
+2026-02-19 19:18:03,535 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:03,723 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.846687 < -1.000000)
+2026-02-19 19:18:03,723 - DEBUG - No speech threshold is met (0.959961 > 0.600000)
+2026-02-19 19:18:03,724 - DEBUG - Processing segment at 17:30.000
+2026-02-19 19:18:05,641 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:05,972 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.131111 < -1.000000)
+2026-02-19 19:18:05,972 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 19:18:05,973 - DEBUG - Processing segment at 18:00.000
+2026-02-19 19:18:08,377 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.592593 > 2.400000)
+2026-02-19 19:18:08,575 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.171265 < -1.000000)
+2026-02-19 19:18:08,575 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 19:18:08,575 - DEBUG - Processing segment at 18:30.000
+2026-02-19 19:18:10,522 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:10,713 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.135574 < -1.000000)
+2026-02-19 19:18:10,713 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 19:18:10,714 - DEBUG - Processing segment at 19:00.000
+2026-02-19 19:18:17,032 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (10.404494 > 2.400000)
+2026-02-19 19:18:17,214 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.085419 < -1.000000)
+2026-02-19 19:18:17,214 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 19:18:17,215 - DEBUG - Processing segment at 19:30.000
+2026-02-19 19:18:19,173 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:19,377 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.158020 < -1.000000)
+2026-02-19 19:18:19,377 - DEBUG - No speech threshold is met (0.984375 > 0.600000)
+2026-02-19 19:18:19,377 - DEBUG - Processing segment at 20:00.000
+2026-02-19 19:18:21,363 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:21,736 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.196513 < -1.000000)
+2026-02-19 19:18:21,736 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 19:18:21,737 - DEBUG - Processing segment at 20:30.000
+2026-02-19 19:18:23,807 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:24,022 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.761688 < -1.000000)
+2026-02-19 19:18:24,022 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 19:18:24,022 - DEBUG - Processing segment at 21:00.000
+2026-02-19 19:18:30,298 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (10.404494 > 2.400000)
+2026-02-19 19:18:30,501 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.047775 < -1.000000)
+2026-02-19 19:18:30,501 - DEBUG - No speech threshold is met (0.986816 > 0.600000)
+2026-02-19 19:18:30,502 - DEBUG - Processing segment at 21:30.000
+2026-02-19 19:18:32,554 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:33,036 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.197250 < -1.000000)
+2026-02-19 19:18:33,036 - DEBUG - No speech threshold is met (0.979980 > 0.600000)
+2026-02-19 19:18:33,036 - DEBUG - Processing segment at 22:00.000
+2026-02-19 19:18:35,077 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:35,294 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.109558 < -1.000000)
+2026-02-19 19:18:35,294 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 19:18:35,294 - DEBUG - Processing segment at 22:30.000
+2026-02-19 19:18:37,408 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:37,613 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.150787 < -1.000000)
+2026-02-19 19:18:37,614 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:18:37,614 - DEBUG - Processing segment at 23:00.000
+2026-02-19 19:18:37,980 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.212891 < -1.000000)
+2026-02-19 19:18:37,980 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 19:18:37,980 - DEBUG - Processing segment at 23:30.000
+2026-02-19 19:18:39,903 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:40,253 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.192635 < -1.000000)
+2026-02-19 19:18:40,254 - DEBUG - No speech threshold is met (0.986328 > 0.600000)
+2026-02-19 19:18:40,254 - DEBUG - Processing segment at 24:00.000
+2026-02-19 19:18:42,200 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:42,382 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.864380 < -1.000000)
+2026-02-19 19:18:42,383 - DEBUG - No speech threshold is met (0.978516 > 0.600000)
+2026-02-19 19:18:42,383 - DEBUG - Processing segment at 24:30.000
+2026-02-19 19:18:44,398 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:44,675 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.156616 < -1.000000)
+2026-02-19 19:18:44,675 - DEBUG - No speech threshold is met (0.980469 > 0.600000)
+2026-02-19 19:18:44,675 - DEBUG - Processing segment at 25:00.000
+2026-02-19 19:18:45,071 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.104492 < -1.000000)
+2026-02-19 19:18:45,072 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 19:18:45,072 - DEBUG - Processing segment at 25:30.000
+2026-02-19 19:18:45,307 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.118164 < -1.000000)
+2026-02-19 19:18:45,307 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 19:18:45,307 - DEBUG - Processing segment at 26:00.000
+2026-02-19 19:18:47,179 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:47,368 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.150604 < -1.000000)
+2026-02-19 19:18:47,368 - DEBUG - No speech threshold is met (0.987793 > 0.600000)
+2026-02-19 19:18:47,369 - DEBUG - Processing segment at 26:30.000
+2026-02-19 19:18:49,343 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:49,531 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.172546 < -1.000000)
+2026-02-19 19:18:49,531 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 19:18:49,532 - DEBUG - Processing segment at 27:00.000
+2026-02-19 19:18:51,594 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:51,782 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.128738 < -1.000000)
+2026-02-19 19:18:51,783 - DEBUG - No speech threshold is met (0.975098 > 0.600000)
+2026-02-19 19:18:51,783 - DEBUG - Processing segment at 27:30.000
+2026-02-19 19:18:52,182 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.206055 < -1.000000)
+2026-02-19 19:18:52,183 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 19:18:52,183 - DEBUG - Processing segment at 28:00.000
+2026-02-19 19:18:52,957 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.394345 < -1.000000)
+2026-02-19 19:18:52,957 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 19:18:52,957 - DEBUG - Processing segment at 28:30.000
+2026-02-19 19:18:54,980 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:18:55,157 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.160416 < -1.000000)
+2026-02-19 19:18:55,157 - DEBUG - No speech threshold is met (0.977051 > 0.600000)
+2026-02-19 19:18:55,158 - DEBUG - Processing segment at 29:00.000
+2026-02-19 19:19:01,484 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (13.692308 > 2.400000)
+2026-02-19 19:19:01,831 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.124817 < -1.000000)
+2026-02-19 19:19:01,831 - DEBUG - No speech threshold is met (0.984863 > 0.600000)
+2026-02-19 19:19:01,831 - DEBUG - Processing segment at 29:30.000
+2026-02-19 19:19:02,240 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.112305 < -1.000000)
+2026-02-19 19:19:02,240 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 19:19:02,240 - DEBUG - Processing segment at 30:00.000
+2026-02-19 19:19:04,144 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:04,342 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.132103 < -1.000000)
+2026-02-19 19:19:04,342 - DEBUG - No speech threshold is met (0.981445 > 0.600000)
+2026-02-19 19:19:04,342 - DEBUG - Processing segment at 30:30.000
+2026-02-19 19:19:04,676 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.125000 < -1.000000)
+2026-02-19 19:19:04,677 - DEBUG - No speech threshold is met (0.982422 > 0.600000)
+2026-02-19 19:19:04,677 - DEBUG - Processing segment at 31:00.000
+2026-02-19 19:19:06,650 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:06,848 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.177994 < -1.000000)
+2026-02-19 19:19:06,848 - DEBUG - No speech threshold is met (0.979004 > 0.600000)
+2026-02-19 19:19:06,848 - DEBUG - Processing segment at 31:30.000
+2026-02-19 19:19:08,826 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:09,213 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.119415 < -1.000000)
+2026-02-19 19:19:09,214 - DEBUG - No speech threshold is met (0.980957 > 0.600000)
+2026-02-19 19:19:09,214 - DEBUG - Processing segment at 32:00.000
+2026-02-19 19:19:09,528 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.142578 < -1.000000)
+2026-02-19 19:19:09,529 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:19:09,529 - DEBUG - Processing segment at 32:30.000
+2026-02-19 19:19:09,803 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.085937 < -1.000000)
+2026-02-19 19:19:09,803 - DEBUG - No speech threshold is met (0.988281 > 0.600000)
+2026-02-19 19:19:09,804 - DEBUG - Processing segment at 33:00.000
+2026-02-19 19:19:11,622 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:11,916 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.261626 < -1.000000)
+2026-02-19 19:19:11,917 - DEBUG - No speech threshold is met (0.977539 > 0.600000)
+2026-02-19 19:19:11,917 - DEBUG - Processing segment at 33:30.000
+2026-02-19 19:19:13,703 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:14,091 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.913958 < -1.000000)
+2026-02-19 19:19:14,091 - DEBUG - No speech threshold is met (0.987305 > 0.600000)
+2026-02-19 19:19:14,091 - DEBUG - Processing segment at 34:00.000
+2026-02-19 19:19:14,412 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.105469 < -1.000000)
+2026-02-19 19:19:14,413 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 19:19:14,413 - DEBUG - Processing segment at 34:30.000
+2026-02-19 19:19:16,292 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:16,523 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.731133 < -1.000000)
+2026-02-19 19:19:16,523 - DEBUG - No speech threshold is met (0.979492 > 0.600000)
+2026-02-19 19:19:16,523 - DEBUG - Processing segment at 35:00.000
+2026-02-19 19:19:16,827 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.096680 < -1.000000)
+2026-02-19 19:19:16,827 - DEBUG - No speech threshold is met (0.985840 > 0.600000)
+2026-02-19 19:19:16,827 - DEBUG - Processing segment at 35:30.000
+2026-02-19 19:19:18,687 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:18,885 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.139854 < -1.000000)
+2026-02-19 19:19:18,885 - DEBUG - No speech threshold is met (0.983398 > 0.600000)
+2026-02-19 19:19:18,885 - DEBUG - Processing segment at 36:00.000
+2026-02-19 19:19:20,676 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:20,864 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.467150 < -1.000000)
+2026-02-19 19:19:20,864 - DEBUG - No speech threshold is met (0.969727 > 0.600000)
+2026-02-19 19:19:20,864 - DEBUG - Processing segment at 36:30.000
+2026-02-19 19:19:22,266 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:22,448 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.903426 < -1.000000)
+2026-02-19 19:19:22,448 - DEBUG - No speech threshold is met (0.983887 > 0.600000)
+2026-02-19 19:19:22,448 - DEBUG - Processing segment at 37:00.000
+2026-02-19 19:19:24,211 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:24,405 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.889099 < -1.000000)
+2026-02-19 19:19:24,406 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 19:19:24,406 - DEBUG - Processing segment at 37:30.000
+2026-02-19 19:19:26,162 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:26,347 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.112717 < -1.000000)
+2026-02-19 19:19:26,348 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 19:19:26,348 - DEBUG - Processing segment at 38:00.000
+2026-02-19 19:19:26,690 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.114258 < -1.000000)
+2026-02-19 19:19:26,690 - DEBUG - No speech threshold is met (0.989746 > 0.600000)
+2026-02-19 19:19:26,691 - DEBUG - Processing segment at 38:30.000
+2026-02-19 19:19:28,709 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:28,901 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.793015 < -1.000000)
+2026-02-19 19:19:28,901 - DEBUG - No speech threshold is met (0.985352 > 0.600000)
+2026-02-19 19:19:28,901 - DEBUG - Processing segment at 39:00.000
+2026-02-19 19:19:30,969 - DEBUG - Compression ratio threshold is not met with temperature 0.0 (3.400000 > 2.400000)
+2026-02-19 19:19:31,152 - DEBUG - Log probability threshold is not met with temperature 0.2 (-1.156281 < -1.000000)
+2026-02-19 19:19:31,153 - DEBUG - No speech threshold is met (0.982910 > 0.600000)
+2026-02-19 19:19:31,153 - DEBUG - Processing segment at 39:30.000
+2026-02-19 19:19:32,164 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.155273 < -1.000000)
+2026-02-19 19:19:32,164 - DEBUG - No speech threshold is met (0.972656 > 0.600000)
+2026-02-19 19:19:32,171 - DEBUG - Processing segment at 40:00.000
+2026-02-19 19:19:32,612 - DEBUG - Log probability threshold is not met with temperature 0.0 (-1.064453 < -1.000000)
+2026-02-19 19:19:32,612 - DEBUG - No speech threshold is met (0.787109 > 0.600000)

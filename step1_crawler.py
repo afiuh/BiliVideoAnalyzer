@@ -4,8 +4,8 @@ from bilibili_api import search, sync
 from bilibili_api.search import SearchObjectType
 
 # ==================== 配置 ====================
-SEARCH_KEYWORDS = ["深度", "深度", "体系", "权力"]
-NORMAL_PAGES = 1                # 非测试模式下的默认页数
+SEARCH_KEYWORDS = ["深度", "体系", "权力"]
+NORMAL_PAGES = 2               # 非测试模式下的默认页数
 MAX_PAGES_PER_KEYWORD = NORMAL_PAGES
 TEST_MODE = False                # True 表示测试模式，只爬取少量视频
 if TEST_MODE:

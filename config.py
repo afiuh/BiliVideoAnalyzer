@@ -63,5 +63,5 @@ DECISION_THRESHOLDS = {
 }
 
 # ==================== DeepSeek API 配置 ====================
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "your API key")  # 建议从环境变量读取
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-34ee930b3f264152af50f8afcd348388")  # 建议从环境变量读取
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
